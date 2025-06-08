@@ -1,0 +1,11 @@
+worker_id,month,total_days_worked,total_hours_worked
+1,March,22,176
+1,April,20,160
+1,May,23,184
+2,March,21,168
+2,April,22,176
+2,May,20,160
+3,March,20,160
+3,April,21,168
+3,May,22,176
+

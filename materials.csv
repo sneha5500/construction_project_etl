@@ -1,0 +1,12 @@
+site_id,material_name,material_qty,used_qty,cost
+1,Cement,200,150,50000
+1,Steel Rods,150,120,80000
+1,Bricks,3000,2500,45000
+2,Bricks,2800,2600,42000
+2,Doors,15,10,30000
+2,Windows,20,20,20000
+5,Windows,12,10,18000
+5,Paint,50,40,12000
+5,Electrical Wiring,100,90,15000
+
+
