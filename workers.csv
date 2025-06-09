@@ -1,6 +1,3001 @@
-worker_id,worker_name,job_role,salary_per_day
-201,Ravi Kumar,Mason,500
-202,Sunil Verma,Electrician,550
-203,Ramesh Gupta,Plumber,520
-204,Amit Singh,Carpenter,480
-
+worker_name,job_role,salary_per_day,site_id
+Praveen Das,Site Engineer,878,1624
+Sunil Mishra,Plumber,964,1140
+Venkanna Joshi,Painter,406,1566
+Sharath Naik,Tile Fitter,554,249
+Manoj Kumar,Supervisor,578,2816
+Venkat Das,Plumber,693,38
+Nagaraju Kumar,Welder,669,224
+Srinivas Goud,Mason,939,1263
+Srinivas Chowdary,Site Engineer,942,1320
+Venkat Rao,Painter,917,670
+Anil Patel,Finishing Worker,623,2705
+Ramesh Mishra,Tile Fitter,537,755
+Kiran Chowdary,Labour,833,495
+Shankar Joshi,Carpenter,457,360
+Srinivas Mishra,Welder,621,1291
+Swamy Shetty,Carpenter,593,342
+Shankar Das,Finishing Worker,911,1567
+Venkat Shetty,Welder,527,1903
+Lakshman Rao,Painter,672,1477
+Nagaraju Singh,Finishing Worker,701,1600
+Anil Verma,Finishing Worker,527,2902
+Mahesh Chowdary,Finishing Worker,548,2981
+Raju Das,Welder,746,329
+Ramesh Das,Carpenter,647,884
+Sharath Rao,Tile Fitter,839,2388
+Sunil Yadav,Painter,806,132
+Praveen Verma,Site Engineer,798,1018
+Lakshman Chari,Electrician,518,594
+Nagaraju Verma,Welder,446,1184
+Bharath Joshi,Mason,724,108
+Srinu Chowdary,Supervisor,485,1275
+Venkat Tripathi,Finishing Worker,696,2162
+Sunil Rao,Carpenter,974,2367
+Venkanna Chari,Site Engineer,873,1656
+Venkanna Kumar,Electrician,999,1489
+Lakshman Chari,Site Engineer,642,674
+Mahesh Kumar,Carpenter,584,732
+Venkat Patel,Labour,699,2615
+Bharath Goud,Finishing Worker,710,1963
+Praveen Verma,Supervisor,653,1269
+Nagaraju Das,Tile Fitter,812,2550
+Anil Yadav,Plumber,460,2159
+Sharath Shetty,Tile Fitter,627,2236
+Anil Goud,Painter,925,2878
+Manoj Singh,Labour,681,1949
+Sunil Chowdary,Finishing Worker,765,280
+Anil Joshi,Welder,419,2776
+Praveen Naik,Tile Fitter,938,799
+Srinu Singh,Finishing Worker,834,2316
+Mahesh Mishra,Supervisor,745,2889
+Rajesh Reddy,Site Engineer,797,1782
+Naresh Rao,Plumber,723,1217
+Kiran Joshi,Carpenter,622,523
+Rajesh Kumar,Carpenter,564,2377
+Nagaraju Tripathi,Electrician,959,2345
+Mahesh Verma,Welder,938,1155
+Swamy Naik,Supervisor,720,1035
+Srinu Joshi,Labour,680,1747
+Srinivas Rao,Plumber,430,2286
+Praveen Chowdary,Labour,446,1273
+Lakshman Patel,Plumber,971,1929
+Raju Shetty,Electrician,679,1506
+Venkat Goud,Carpenter,452,2698
+Swamy Mishra,Supervisor,444,1688
+Mahesh Chowdary,Supervisor,625,1677
+Ramesh Chowdary,Carpenter,512,2100
+Praveen Singh,Painter,402,2326
+Sharath Rao,Electrician,815,1651
+Lakshman Kumar,Electrician,804,1823
+Shankar Kumar,Finishing Worker,554,2151
+Praveen Chari,Plumber,641,672
+Swamy Singh,Plumber,582,1173
+Mahesh Tripathi,Mason,849,2201
+Mahesh Mishra,Painter,992,52
+Praveen Goud,Painter,715,1924
+Praveen Mishra,Supervisor,401,2676
+Manoj Patel,Electrician,667,2861
+Rajesh Naik,Finishing Worker,906,2802
+Rajesh Singh,Carpenter,556,1543
+Srinu Naik,Labour,427,300
+Swamy Singh,Electrician,883,261
+Srinivas Reddy,Carpenter,659,1169
+Venkanna Mishra,Welder,761,2664
+Sharath Yadav,Electrician,556,1942
+Bharath Singh,Mason,469,148
+Sharath Yadav,Painter,490,1929
+Naresh Tripathi,Painter,527,1089
+Bharath Patel,Carpenter,400,2869
+Naresh Yadav,Supervisor,798,1420
+Bharath Chowdary,Labour,771,2859
+Bharath Goud,Plumber,986,603
+Raju Tripathi,Tile Fitter,555,813
+Shankar Reddy,Plumber,974,1520
+Venkanna Singh,Painter,535,2418
+Kiran Rao,Supervisor,792,1391
+Srinu Reddy,Finishing Worker,991,26
+Bharath Joshi,Carpenter,637,1055
+Nagaraju Patel,Painter,537,836
+Sharath Goud,Electrician,717,2586
+Bharath Singh,Painter,972,2703
+Venkanna Kumar,Labour,659,1030
+Manoj Kumar,Labour,557,273
+Venkat Verma,Electrician,849,614
+Swamy Verma,Mason,969,2453
+Lakshman Singh,Finishing Worker,734,2068
+Naresh Chowdary,Welder,730,234
+Nagaraju Das,Painter,860,2278
+Praveen Tripathi,Painter,887,1594
+Naresh Goud,Site Engineer,509,1937
+Ramesh Yadav,Site Engineer,661,1932
+Venkat Rao,Labour,963,1102
+Kiran Patel,Plumber,450,1504
+Naresh Goud,Welder,646,119
+Ramesh Reddy,Site Engineer,711,909
+Anil Naik,Mason,977,1214
+Venkanna Chari,Supervisor,401,329
+Rajesh Kumar,Plumber,801,1247
+Naresh Yadav,Supervisor,672,2645
+Srinu Yadav,Welder,511,1903
+Srinu Kumar,Welder,458,1769
+Shankar Yadav,Finishing Worker,550,187
+Ramesh Shetty,Supervisor,835,1396
+Sunil Reddy,Finishing Worker,842,2210
+Praveen Mishra,Mason,502,2850
+Raju Singh,Site Engineer,858,384
+Nagaraju Kumar,Carpenter,823,1992
+Venkat Reddy,Finishing Worker,634,1867
+Mahesh Joshi,Painter,867,2560
+Bharath Chari,Plumber,696,1933
+Mahesh Kumar,Electrician,412,285
+Naresh Shetty,Carpenter,695,2113
+Naresh Yadav,Tile Fitter,628,85
+Mahesh Reddy,Supervisor,647,1795
+Venkat Chowdary,Labour,490,1535
+Srinivas Chari,Electrician,690,114
+Venkat Kumar,Painter,471,56
+Praveen Tripathi,Plumber,669,1784
+Srinu Joshi,Painter,400,2688
+Mahesh Singh,Site Engineer,650,710
+Venkat Rao,Finishing Worker,918,812
+Venkat Shetty,Tile Fitter,989,765
+Shankar Kumar,Labour,610,2196
+Shankar Tripathi,Welder,512,1680
+Nagaraju Naik,Plumber,515,217
+Swamy Joshi,Plumber,825,378
+Sharath Patel,Site Engineer,488,2942
+Nagaraju Naik,Tile Fitter,654,1604
+Shankar Yadav,Plumber,512,266
+Sharath Tripathi,Plumber,937,1584
+Raju Goud,Painter,885,2527
+Lakshman Mishra,Carpenter,464,2709
+Sunil Rao,Carpenter,689,1132
+Sharath Verma,Painter,718,2908
+Naresh Joshi,Tile Fitter,552,391
+Praveen Singh,Labour,481,2236
+Sharath Goud,Carpenter,624,2492
+Nagaraju Rao,Tile Fitter,464,2108
+Bharath Joshi,Finishing Worker,612,1188
+Naresh Chari,Supervisor,760,1442
+Anil Reddy,Plumber,673,857
+Rajesh Chari,Welder,624,608
+Anil Goud,Welder,830,95
+Rajesh Naik,Site Engineer,698,735
+Praveen Chowdary,Carpenter,619,337
+Mahesh Joshi,Welder,843,1061
+Venkat Rao,Finishing Worker,575,2949
+Sharath Chowdary,Labour,846,606
+Manoj Naik,Tile Fitter,870,2055
+Anil Reddy,Supervisor,998,1109
+Anil Chowdary,Supervisor,936,2830
+Sunil Rao,Carpenter,626,2684
+Sunil Kumar,Tile Fitter,515,793
+Sharath Tripathi,Site Engineer,673,509
+Lakshman Rao,Supervisor,631,677
+Ramesh Reddy,Supervisor,693,32
+Venkat Verma,Tile Fitter,926,2324
+Sharath Verma,Electrician,654,2703
+Lakshman Reddy,Tile Fitter,659,2217
+Srinu Mishra,Site Engineer,467,2547
+Srinu Rao,Plumber,466,1697
+Venkat Singh,Supervisor,706,2239
+Shankar Joshi,Tile Fitter,419,2969
+Rajesh Rao,Mason,722,2237
+Venkanna Kumar,Mason,795,891
+Naresh Joshi,Welder,939,214
+Swamy Patel,Painter,476,2179
+Praveen Mishra,Site Engineer,507,582
+Sharath Naik,Plumber,747,641
+Naresh Goud,Mason,708,353
+Praveen Verma,Mason,414,1020
+Manoj Goud,Mason,484,1114
+Sharath Singh,Carpenter,407,1896
+Nagaraju Shetty,Electrician,561,1393
+Mahesh Joshi,Plumber,454,636
+Raju Kumar,Supervisor,910,2871
+Sunil Verma,Finishing Worker,540,1555
+Kiran Mishra,Supervisor,816,2165
+Shankar Shetty,Electrician,832,516
+Manoj Singh,Mason,730,763
+Manoj Yadav,Labour,852,2933
+Bharath Chari,Supervisor,777,2502
+Manoj Tripathi,Electrician,919,2609
+Naresh Joshi,Labour,680,50
+Sunil Singh,Supervisor,585,213
+Sharath Yadav,Site Engineer,841,1587
+Swamy Chowdary,Welder,501,2270
+Shankar Shetty,Welder,689,1494
+Anil Tripathi,Tile Fitter,955,1793
+Anil Tripathi,Supervisor,931,1643
+Srinivas Shetty,Labour,915,1877
+Praveen Goud,Carpenter,497,2824
+Raju Shetty,Tile Fitter,645,1884
+Lakshman Yadav,Tile Fitter,863,1567
+Srinu Patel,Supervisor,424,2672
+Kiran Patel,Finishing Worker,791,1021
+Kiran Mishra,Tile Fitter,629,2509
+Anil Tripathi,Mason,669,1267
+Swamy Singh,Finishing Worker,952,1532
+Bharath Tripathi,Carpenter,816,225
+Rajesh Verma,Tile Fitter,653,1183
+Anil Chowdary,Painter,831,1810
+Manoj Joshi,Welder,413,1610
+Praveen Reddy,Painter,512,524
+Mahesh Reddy,Tile Fitter,428,2063
+Bharath Singh,Labour,598,214
+Nagaraju Das,Painter,798,466
+Venkat Tripathi,Plumber,580,1786
+Srinu Naik,Tile Fitter,847,1970
+Nagaraju Shetty,Mason,643,2887
+Swamy Chowdary,Finishing Worker,962,667
+Praveen Yadav,Labour,786,756
+Bharath Das,Electrician,680,1591
+Mahesh Chari,Finishing Worker,571,2816
+Anil Shetty,Carpenter,780,468
+Swamy Das,Electrician,895,2397
+Nagaraju Reddy,Site Engineer,904,2623
+Venkat Verma,Labour,538,1591
+Venkat Yadav,Site Engineer,797,2039
+Rajesh Tripathi,Mason,725,886
+Rajesh Rao,Painter,890,420
+Rajesh Mishra,Tile Fitter,928,1244
+Rajesh Shetty,Electrician,956,2395
+Rajesh Das,Plumber,912,2132
+Venkat Yadav,Welder,605,2345
+Sharath Rao,Finishing Worker,400,602
+Venkanna Naik,Painter,404,1340
+Srinu Joshi,Finishing Worker,900,2697
+Kiran Verma,Mason,435,1753
+Shankar Chowdary,Labour,522,769
+Mahesh Das,Carpenter,762,2085
+Lakshman Reddy,Welder,578,2486
+Naresh Chowdary,Painter,759,2887
+Srinu Naik,Supervisor,466,1042
+Anil Yadav,Welder,836,1916
+Srinu Rao,Tile Fitter,428,179
+Sharath Kumar,Electrician,631,2964
+Sunil Singh,Mason,939,2774
+Shankar Singh,Supervisor,483,2384
+Srinu Das,Finishing Worker,758,2575
+Lakshman Shetty,Site Engineer,765,1018
+Bharath Goud,Welder,870,12
+Rajesh Rao,Finishing Worker,638,714
+Mahesh Goud,Carpenter,639,1165
+Bharath Das,Mason,452,2083
+Sunil Das,Welder,635,2404
+Raju Goud,Tile Fitter,929,892
+Lakshman Joshi,Finishing Worker,409,1600
+Kiran Reddy,Plumber,861,2945
+Manoj Goud,Finishing Worker,596,1570
+Srinu Kumar,Electrician,595,2523
+Naresh Yadav,Carpenter,870,4
+Ramesh Tripathi,Plumber,741,9
+Anil Naik,Supervisor,746,387
+Sunil Naik,Carpenter,609,1401
+Swamy Tripathi,Supervisor,929,943
+Bharath Verma,Site Engineer,629,878
+Manoj Chari,Electrician,643,2034
+Naresh Reddy,Labour,415,1733
+Naresh Chowdary,Carpenter,421,2068
+Manoj Mishra,Welder,963,1254
+Praveen Goud,Welder,761,646
+Praveen Naik,Finishing Worker,638,446
+Lakshman Yadav,Tile Fitter,823,2559
+Sunil Singh,Painter,706,759
+Sunil Tripathi,Supervisor,877,1029
+Kiran Singh,Site Engineer,900,1689
+Srinivas Chowdary,Mason,407,1348
+Ramesh Kumar,Tile Fitter,885,1303
+Lakshman Mishra,Finishing Worker,986,1686
+Kiran Kumar,Mason,700,1675
+Venkanna Tripathi,Electrician,924,1276
+Mahesh Shetty,Painter,781,2544
+Rajesh Verma,Carpenter,961,2014
+Praveen Chari,Painter,504,1826
+Naresh Naik,Tile Fitter,657,1404
+Sharath Naik,Supervisor,910,328
+Ramesh Chowdary,Site Engineer,766,1260
+Bharath Chowdary,Mason,740,2603
+Raju Chowdary,Electrician,613,2942
+Swamy Patel,Finishing Worker,525,444
+Venkat Singh,Carpenter,755,448
+Venkat Tripathi,Tile Fitter,961,2676
+Raju Kumar,Finishing Worker,508,899
+Swamy Shetty,Labour,897,2144
+Srinu Reddy,Plumber,568,1412
+Nagaraju Naik,Labour,913,208
+Manoj Singh,Welder,846,2251
+Manoj Joshi,Supervisor,444,381
+Bharath Chari,Welder,413,1670
+Venkat Patel,Labour,609,367
+Kiran Chowdary,Carpenter,711,860
+Lakshman Kumar,Painter,894,285
+Swamy Naik,Tile Fitter,842,1167
+Sunil Kumar,Mason,409,78
+Kiran Tripathi,Plumber,634,864
+Lakshman Das,Labour,406,1648
+Kiran Rao,Welder,928,1473
+Lakshman Mishra,Welder,885,700
+Sunil Das,Tile Fitter,864,570
+Rajesh Shetty,Site Engineer,438,1749
+Sharath Shetty,Mason,798,2502
+Swamy Mishra,Painter,781,1700
+Anil Chowdary,Finishing Worker,467,2160
+Kiran Tripathi,Site Engineer,731,365
+Shankar Joshi,Electrician,562,1892
+Swamy Chowdary,Site Engineer,410,634
+Venkanna Chari,Supervisor,758,1429
+Rajesh Das,Tile Fitter,820,2881
+Bharath Naik,Electrician,571,738
+Srinu Patel,Plumber,773,464
+Ramesh Goud,Painter,660,1163
+Rajesh Patel,Tile Fitter,567,2576
+Raju Joshi,Welder,491,214
+Venkanna Tripathi,Plumber,589,811
+Sunil Yadav,Tile Fitter,703,788
+Srinivas Yadav,Tile Fitter,559,447
+Rajesh Chowdary,Painter,603,1498
+Mahesh Joshi,Plumber,926,2937
+Raju Kumar,Welder,800,1057
+Srinivas Das,Site Engineer,425,2015
+Sharath Rao,Labour,654,138
+Swamy Joshi,Welder,418,1013
+Swamy Joshi,Supervisor,752,1476
+Srinivas Tripathi,Welder,722,1649
+Ramesh Patel,Labour,614,2532
+Shankar Chowdary,Electrician,772,1319
+Srinivas Das,Painter,592,357
+Ramesh Reddy,Site Engineer,720,1509
+Swamy Rao,Painter,420,1052
+Raju Kumar,Site Engineer,519,2216
+Anil Patel,Supervisor,434,2318
+Raju Chari,Labour,805,1519
+Ramesh Yadav,Carpenter,915,2643
+Nagaraju Reddy,Labour,866,1941
+Mahesh Joshi,Painter,552,1009
+Sunil Reddy,Welder,692,2953
+Venkat Shetty,Finishing Worker,784,1201
+Manoj Naik,Supervisor,986,319
+Sunil Mishra,Painter,974,1589
+Kiran Goud,Finishing Worker,998,1620
+Venkat Naik,Carpenter,565,2849
+Praveen Joshi,Painter,876,625
+Bharath Singh,Plumber,876,267
+Raju Shetty,Site Engineer,787,1792
+Praveen Das,Mason,473,376
+Venkanna Chari,Site Engineer,470,2966
+Raju Patel,Electrician,613,1202
+Srinivas Reddy,Mason,582,45
+Sunil Verma,Painter,627,1776
+Srinivas Naik,Carpenter,423,2828
+Srinivas Singh,Labour,770,2013
+Shankar Shetty,Tile Fitter,742,1668
+Naresh Mishra,Plumber,442,1569
+Naresh Verma,Supervisor,444,2018
+Anil Verma,Electrician,895,2943
+Lakshman Das,Carpenter,572,1296
+Mahesh Das,Painter,841,706
+Ramesh Joshi,Tile Fitter,488,2711
+Naresh Yadav,Site Engineer,876,1107
+Srinu Yadav,Tile Fitter,760,2554
+Anil Patel,Plumber,942,2706
+Raju Verma,Finishing Worker,418,539
+Srinu Verma,Site Engineer,837,2539
+Praveen Reddy,Tile Fitter,519,1234
+Sharath Reddy,Mason,992,370
+Sharath Chowdary,Supervisor,639,1292
+Kiran Verma,Finishing Worker,926,840
+Raju Patel,Mason,453,661
+Venkanna Rao,Painter,813,2469
+Shankar Das,Painter,897,991
+Sharath Rao,Painter,483,2087
+Naresh Patel,Tile Fitter,684,296
+Praveen Shetty,Welder,560,2462
+Swamy Yadav,Plumber,922,1169
+Sharath Yadav,Carpenter,408,2503
+Manoj Kumar,Plumber,892,2427
+Rajesh Singh,Carpenter,723,1263
+Praveen Joshi,Plumber,666,812
+Ramesh Tripathi,Supervisor,704,1469
+Manoj Reddy,Electrician,727,2360
+Venkanna Verma,Plumber,838,2023
+Rajesh Kumar,Painter,602,74
+Srinu Tripathi,Plumber,750,1515
+Rajesh Yadav,Plumber,926,2182
+Swamy Yadav,Supervisor,974,1750
+Mahesh Shetty,Tile Fitter,830,2208
+Praveen Reddy,Welder,758,1951
+Praveen Kumar,Painter,625,923
+Srinivas Chowdary,Labour,750,1228
+Raju Yadav,Labour,997,243
+Venkanna Singh,Tile Fitter,652,338
+Raju Kumar,Welder,614,2080
+Lakshman Yadav,Tile Fitter,532,627
+Shankar Tripathi,Plumber,737,1476
+Rajesh Kumar,Supervisor,924,933
+Raju Kumar,Mason,865,1704
+Venkanna Kumar,Electrician,992,1184
+Sunil Kumar,Painter,667,1948
+Lakshman Das,Painter,577,2916
+Kiran Shetty,Supervisor,964,2722
+Manoj Yadav,Labour,603,236
+Mahesh Shetty,Tile Fitter,413,1748
+Raju Shetty,Carpenter,875,1872
+Venkanna Joshi,Painter,966,869
+Ramesh Chowdary,Carpenter,796,2791
+Venkat Yadav,Carpenter,442,575
+Manoj Shetty,Painter,587,1679
+Praveen Tripathi,Supervisor,753,1640
+Bharath Yadav,Supervisor,885,1081
+Sharath Reddy,Labour,769,2908
+Nagaraju Das,Labour,430,608
+Swamy Shetty,Painter,913,317
+Manoj Verma,Mason,899,702
+Kiran Chowdary,Carpenter,514,1005
+Ramesh Das,Finishing Worker,903,1353
+Nagaraju Naik,Labour,608,748
+Sharath Verma,Supervisor,581,1172
+Venkat Yadav,Mason,783,2593
+Bharath Das,Electrician,927,2721
+Venkanna Chari,Mason,867,469
+Shankar Shetty,Welder,673,470
+Kiran Chari,Carpenter,920,1746
+Sunil Yadav,Electrician,950,2195
+Praveen Chowdary,Plumber,573,1055
+Bharath Yadav,Site Engineer,536,187
+Kiran Das,Welder,977,1591
+Bharath Yadav,Labour,450,498
+Manoj Chowdary,Carpenter,698,2105
+Venkanna Joshi,Supervisor,628,650
+Srinu Yadav,Labour,756,2169
+Venkanna Yadav,Plumber,909,237
+Praveen Verma,Mason,677,197
+Shankar Kumar,Carpenter,784,2288
+Swamy Naik,Supervisor,887,357
+Kiran Chowdary,Labour,425,2982
+Mahesh Verma,Plumber,641,869
+Praveen Yadav,Carpenter,894,179
+Venkat Tripathi,Welder,828,2311
+Sunil Singh,Welder,595,704
+Bharath Joshi,Tile Fitter,674,2328
+Nagaraju Rao,Painter,555,878
+Manoj Singh,Welder,994,1113
+Rajesh Tripathi,Mason,490,833
+Naresh Das,Mason,593,2653
+Manoj Mishra,Supervisor,459,419
+Srinu Yadav,Site Engineer,602,1456
+Sunil Das,Mason,502,772
+Srinivas Kumar,Painter,690,2985
+Shankar Das,Supervisor,676,588
+Naresh Yadav,Plumber,509,1511
+Swamy Verma,Supervisor,827,245
+Praveen Shetty,Site Engineer,895,1493
+Venkanna Yadav,Welder,903,1800
+Venkanna Goud,Carpenter,728,1326
+Ramesh Yadav,Finishing Worker,728,557
+Manoj Chowdary,Finishing Worker,497,1118
+Srinivas Reddy,Plumber,677,2593
+Ramesh Naik,Finishing Worker,702,2258
+Nagaraju Das,Plumber,933,64
+Shankar Shetty,Finishing Worker,887,2281
+Raju Mishra,Painter,483,1646
+Mahesh Joshi,Supervisor,923,2146
+Ramesh Chari,Carpenter,610,2291
+Manoj Patel,Site Engineer,526,2314
+Manoj Shetty,Carpenter,603,2500
+Rajesh Das,Mason,859,2772
+Sharath Chowdary,Tile Fitter,484,2260
+Lakshman Kumar,Welder,635,410
+Srinu Goud,Tile Fitter,920,88
+Mahesh Shetty,Site Engineer,939,1507
+Srinivas Tripathi,Finishing Worker,845,1812
+Kiran Das,Welder,924,1000
+Naresh Kumar,Site Engineer,678,2514
+Lakshman Mishra,Electrician,557,1286
+Nagaraju Kumar,Carpenter,434,274
+Venkanna Mishra,Supervisor,920,877
+Mahesh Goud,Electrician,968,1984
+Sunil Kumar,Mason,589,2251
+Sharath Patel,Painter,608,2088
+Swamy Naik,Supervisor,822,2794
+Rajesh Tripathi,Labour,557,2548
+Manoj Patel,Finishing Worker,829,867
+Srinivas Yadav,Supervisor,672,999
+Naresh Shetty,Supervisor,423,2686
+Lakshman Das,Painter,962,2427
+Srinivas Mishra,Finishing Worker,528,1238
+Rajesh Goud,Carpenter,827,2192
+Rajesh Chari,Painter,401,1853
+Swamy Verma,Welder,999,294
+Venkat Verma,Mason,602,557
+Ramesh Shetty,Painter,425,836
+Manoj Goud,Tile Fitter,509,887
+Bharath Reddy,Finishing Worker,981,1416
+Lakshman Rao,Welder,855,726
+Shankar Kumar,Plumber,918,2251
+Shankar Singh,Plumber,415,2983
+Sharath Das,Electrician,634,1501
+Manoj Rao,Painter,978,2688
+Raju Reddy,Carpenter,404,1736
+Lakshman Chari,Plumber,659,1963
+Manoj Naik,Plumber,627,950
+Anil Singh,Painter,440,1032
+Sharath Chowdary,Painter,986,477
+Mahesh Kumar,Welder,593,1361
+Nagaraju Yadav,Plumber,415,2897
+Anil Verma,Mason,451,865
+Rajesh Tripathi,Painter,459,1128
+Rajesh Joshi,Plumber,425,1787
+Nagaraju Das,Labour,844,1506
+Naresh Singh,Welder,733,1701
+Naresh Reddy,Tile Fitter,834,2355
+Kiran Chari,Welder,513,1752
+Manoj Yadav,Carpenter,863,213
+Rajesh Singh,Electrician,683,2028
+Rajesh Patel,Carpenter,573,1460
+Raju Chowdary,Site Engineer,467,51
+Sunil Das,Electrician,988,579
+Nagaraju Shetty,Plumber,490,2704
+Ramesh Mishra,Finishing Worker,559,112
+Praveen Das,Site Engineer,980,2403
+Rajesh Chari,Mason,622,873
+Nagaraju Rao,Mason,924,1727
+Bharath Patel,Finishing Worker,660,400
+Ramesh Shetty,Finishing Worker,627,705
+Sharath Mishra,Supervisor,905,1647
+Shankar Chari,Mason,950,254
+Venkat Patel,Welder,788,2232
+Raju Goud,Supervisor,737,784
+Srinivas Verma,Plumber,697,1733
+Raju Joshi,Mason,831,1109
+Praveen Chari,Tile Fitter,812,2869
+Shankar Chari,Site Engineer,970,1537
+Shankar Goud,Carpenter,710,2344
+Shankar Singh,Electrician,595,1440
+Ramesh Chowdary,Carpenter,799,2355
+Raju Shetty,Electrician,589,36
+Swamy Kumar,Labour,959,30
+Rajesh Goud,Mason,681,1164
+Praveen Joshi,Finishing Worker,555,1219
+Raju Tripathi,Site Engineer,812,2489
+Sunil Chari,Welder,826,335
+Lakshman Rao,Finishing Worker,513,109
+Lakshman Das,Welder,430,63
+Rajesh Yadav,Electrician,427,686
+Lakshman Shetty,Carpenter,840,2955
+Sharath Joshi,Tile Fitter,861,1929
+Ramesh Das,Labour,488,519
+Bharath Mishra,Finishing Worker,904,2167
+Shankar Joshi,Carpenter,839,1900
+Kiran Patel,Finishing Worker,648,1185
+Venkat Shetty,Welder,892,1362
+Manoj Singh,Painter,754,998
+Ramesh Mishra,Welder,950,370
+Nagaraju Shetty,Plumber,890,162
+Mahesh Naik,Mason,731,1642
+Kiran Patel,Tile Fitter,647,230
+Srinivas Patel,Site Engineer,984,2253
+Kiran Goud,Finishing Worker,554,1294
+Raju Reddy,Finishing Worker,701,2912
+Nagaraju Patel,Plumber,623,2178
+Kiran Naik,Supervisor,644,2078
+Anil Joshi,Labour,464,849
+Sunil Das,Plumber,970,1050
+Raju Mishra,Welder,782,392
+Ramesh Reddy,Finishing Worker,410,1345
+Manoj Das,Site Engineer,739,397
+Naresh Kumar,Supervisor,750,2039
+Rajesh Patel,Carpenter,474,593
+Anil Das,Finishing Worker,678,2673
+Anil Verma,Tile Fitter,853,2632
+Praveen Reddy,Welder,755,1713
+Raju Patel,Carpenter,923,1676
+Swamy Shetty,Tile Fitter,517,1124
+Nagaraju Das,Electrician,976,2761
+Nagaraju Das,Finishing Worker,741,2469
+Srinivas Mishra,Labour,988,1489
+Manoj Das,Supervisor,812,633
+Raju Chowdary,Labour,796,1708
+Ramesh Yadav,Electrician,735,526
+Mahesh Tripathi,Labour,869,1517
+Bharath Tripathi,Painter,947,2064
+Bharath Shetty,Welder,422,2249
+Praveen Goud,Labour,557,926
+Swamy Chowdary,Finishing Worker,444,2327
+Rajesh Singh,Finishing Worker,840,1847
+Mahesh Singh,Supervisor,958,1606
+Manoj Das,Finishing Worker,540,1501
+Kiran Patel,Labour,419,1160
+Srinivas Das,Mason,945,2702
+Lakshman Singh,Finishing Worker,494,1417
+Srinu Verma,Carpenter,697,220
+Lakshman Rao,Supervisor,732,506
+Sharath Chowdary,Labour,893,1573
+Mahesh Chowdary,Site Engineer,812,2483
+Sharath Yadav,Tile Fitter,679,2895
+Manoj Mishra,Painter,801,2353
+Lakshman Verma,Finishing Worker,576,1704
+Sharath Verma,Tile Fitter,932,2513
+Swamy Joshi,Plumber,965,1610
+Raju Goud,Carpenter,725,343
+Venkat Mishra,Electrician,914,1341
+Srinu Kumar,Tile Fitter,633,1458
+Nagaraju Singh,Tile Fitter,890,1470
+Raju Yadav,Supervisor,449,1097
+Mahesh Tripathi,Finishing Worker,770,2920
+Ramesh Rao,Mason,547,2780
+Mahesh Joshi,Welder,960,417
+Raju Verma,Site Engineer,742,2846
+Venkat Tripathi,Painter,911,143
+Nagaraju Mishra,Carpenter,979,2778
+Mahesh Chari,Painter,818,2993
+Mahesh Kumar,Tile Fitter,467,1606
+Anil Patel,Carpenter,560,2085
+Srinu Das,Electrician,628,1153
+Sunil Kumar,Painter,671,642
+Bharath Naik,Labour,770,684
+Venkanna Chari,Site Engineer,451,620
+Bharath Tripathi,Painter,871,1680
+Bharath Patel,Site Engineer,834,2258
+Rajesh Verma,Mason,539,2611
+Venkanna Das,Carpenter,596,2614
+Srinu Chari,Painter,680,2664
+Venkat Chowdary,Mason,733,804
+Venkanna Joshi,Mason,998,1511
+Praveen Yadav,Mason,860,298
+Sunil Das,Welder,805,1096
+Lakshman Verma,Labour,864,2978
+Swamy Rao,Mason,923,236
+Nagaraju Chari,Plumber,969,2842
+Swamy Kumar,Site Engineer,490,2413
+Praveen Rao,Site Engineer,953,500
+Naresh Rao,Plumber,451,2068
+Raju Mishra,Finishing Worker,864,789
+Naresh Goud,Painter,861,2341
+Anil Singh,Painter,1000,646
+Venkat Reddy,Electrician,879,877
+Kiran Naik,Labour,414,1106
+Manoj Das,Painter,914,394
+Mahesh Chari,Supervisor,509,1763
+Ramesh Naik,Welder,988,1880
+Venkat Das,Site Engineer,902,694
+Venkanna Tripathi,Welder,497,2038
+Praveen Naik,Labour,527,546
+Srinivas Goud,Mason,694,1535
+Naresh Shetty,Welder,403,1688
+Rajesh Kumar,Painter,606,1683
+Mahesh Patel,Painter,944,2166
+Rajesh Chowdary,Welder,671,2653
+Mahesh Yadav,Finishing Worker,692,1220
+Raju Verma,Finishing Worker,879,2026
+Lakshman Naik,Painter,451,1415
+Venkat Mishra,Tile Fitter,476,1265
+Lakshman Verma,Plumber,448,822
+Venkat Joshi,Labour,574,369
+Kiran Goud,Painter,601,144
+Anil Goud,Carpenter,472,1701
+Ramesh Joshi,Painter,496,1213
+Srinivas Goud,Finishing Worker,683,300
+Lakshman Reddy,Finishing Worker,828,918
+Naresh Reddy,Painter,909,2558
+Rajesh Goud,Supervisor,884,1691
+Rajesh Goud,Welder,459,1301
+Anil Yadav,Site Engineer,422,2692
+Shankar Shetty,Electrician,601,2680
+Srinu Patel,Painter,812,1459
+Rajesh Naik,Labour,911,884
+Sharath Naik,Carpenter,922,1446
+Rajesh Naik,Carpenter,610,1514
+Sharath Joshi,Welder,811,650
+Raju Patel,Site Engineer,990,2696
+Venkanna Reddy,Welder,872,1510
+Kiran Naik,Electrician,426,549
+Mahesh Das,Painter,792,1367
+Rajesh Chowdary,Carpenter,895,2863
+Sharath Kumar,Painter,629,2714
+Sharath Patel,Finishing Worker,543,639
+Shankar Joshi,Carpenter,540,2454
+Kiran Yadav,Mason,830,2762
+Venkanna Tripathi,Welder,954,1574
+Sharath Yadav,Site Engineer,902,2307
+Sunil Singh,Carpenter,667,2758
+Ramesh Tripathi,Carpenter,646,2643
+Mahesh Rao,Mason,985,938
+Kiran Patel,Site Engineer,759,1250
+Ramesh Mishra,Painter,902,2952
+Swamy Chowdary,Site Engineer,824,1551
+Rajesh Naik,Carpenter,979,1598
+Venkat Singh,Mason,431,1368
+Mahesh Tripathi,Site Engineer,445,2515
+Venkat Kumar,Plumber,664,1783
+Venkat Patel,Mason,707,1232
+Srinu Das,Carpenter,935,271
+Sunil Mishra,Supervisor,843,2253
+Lakshman Mishra,Mason,951,64
+Srinu Joshi,Plumber,636,2136
+Mahesh Yadav,Painter,828,2390
+Raju Joshi,Welder,651,2708
+Lakshman Das,Painter,745,1720
+Rajesh Mishra,Finishing Worker,475,661
+Lakshman Das,Mason,465,977
+Bharath Goud,Plumber,749,998
+Kiran Shetty,Supervisor,596,2345
+Venkat Rao,Welder,510,2395
+Rajesh Shetty,Labour,682,1969
+Shankar Tripathi,Tile Fitter,954,2057
+Ramesh Rao,Finishing Worker,503,144
+Venkat Das,Site Engineer,502,115
+Swamy Singh,Painter,877,2947
+Mahesh Joshi,Carpenter,867,1661
+Srinivas Verma,Plumber,746,594
+Lakshman Shetty,Finishing Worker,906,2757
+Praveen Chari,Plumber,719,2512
+Kiran Reddy,Finishing Worker,652,2129
+Shankar Goud,Labour,638,470
+Sharath Kumar,Welder,499,1219
+Kiran Yadav,Plumber,720,558
+Nagaraju Reddy,Carpenter,997,422
+Sharath Naik,Finishing Worker,536,2672
+Srinivas Singh,Supervisor,417,413
+Bharath Chari,Carpenter,482,2824
+Rajesh Naik,Plumber,481,608
+Ramesh Goud,Site Engineer,451,838
+Lakshman Das,Plumber,401,1834
+Swamy Rao,Finishing Worker,892,613
+Shankar Naik,Plumber,844,98
+Mahesh Joshi,Supervisor,838,2415
+Shankar Singh,Tile Fitter,682,1771
+Venkat Joshi,Supervisor,487,2648
+Sunil Chari,Mason,410,2304
+Srinu Kumar,Painter,656,1100
+Anil Reddy,Plumber,668,764
+Bharath Joshi,Welder,982,1988
+Ramesh Singh,Site Engineer,603,1216
+Manoj Joshi,Painter,732,1977
+Naresh Tripathi,Mason,567,131
+Praveen Naik,Site Engineer,806,2781
+Sharath Chari,Welder,607,2107
+Sharath Goud,Site Engineer,515,1659
+Praveen Naik,Carpenter,595,348
+Nagaraju Joshi,Site Engineer,616,2197
+Naresh Singh,Labour,426,2739
+Mahesh Goud,Carpenter,955,53
+Sharath Goud,Carpenter,560,2673
+Anil Shetty,Mason,987,780
+Anil Singh,Finishing Worker,704,848
+Venkat Singh,Electrician,603,2400
+Praveen Verma,Labour,610,2567
+Ramesh Naik,Plumber,879,2768
+Sunil Yadav,Plumber,402,1527
+Kiran Yadav,Supervisor,570,2935
+Sharath Chowdary,Carpenter,772,1534
+Lakshman Goud,Tile Fitter,645,1133
+Venkat Shetty,Finishing Worker,429,643
+Swamy Das,Site Engineer,508,2394
+Manoj Das,Plumber,813,2002
+Ramesh Tripathi,Supervisor,861,1681
+Rajesh Tripathi,Welder,491,2891
+Bharath Naik,Welder,711,288
+Mahesh Verma,Tile Fitter,549,2222
+Srinivas Chowdary,Welder,951,521
+Nagaraju Patel,Labour,554,616
+Sunil Shetty,Carpenter,968,1982
+Venkat Joshi,Painter,614,1952
+Srinu Chari,Carpenter,559,2239
+Sharath Kumar,Tile Fitter,861,1447
+Manoj Yadav,Carpenter,539,87
+Kiran Shetty,Labour,873,1934
+Srinu Mishra,Carpenter,624,2160
+Manoj Yadav,Electrician,471,1257
+Srinivas Rao,Mason,430,2292
+Srinivas Goud,Welder,717,1952
+Praveen Naik,Carpenter,434,2847
+Shankar Verma,Site Engineer,543,2341
+Naresh Chowdary,Finishing Worker,415,2497
+Swamy Shetty,Tile Fitter,487,1138
+Sharath Singh,Mason,706,2619
+Naresh Shetty,Painter,758,2295
+Shankar Mishra,Welder,678,975
+Bharath Rao,Mason,940,960
+Shankar Rao,Carpenter,839,2261
+Raju Reddy,Carpenter,772,1246
+Mahesh Shetty,Plumber,898,544
+Ramesh Chowdary,Finishing Worker,741,2178
+Nagaraju Kumar,Welder,738,2913
+Praveen Das,Finishing Worker,770,1946
+Manoj Rao,Mason,531,2488
+Manoj Goud,Mason,701,2071
+Sharath Shetty,Labour,805,2208
+Venkanna Das,Painter,466,2181
+Srinu Yadav,Welder,636,1171
+Nagaraju Shetty,Carpenter,665,666
+Srinivas Kumar,Welder,692,2204
+Mahesh Chari,Painter,992,111
+Nagaraju Goud,Supervisor,475,2572
+Nagaraju Joshi,Supervisor,554,254
+Lakshman Naik,Supervisor,776,743
+Rajesh Reddy,Site Engineer,621,1622
+Lakshman Yadav,Painter,944,875
+Bharath Rao,Carpenter,865,2027
+Swamy Chowdary,Welder,936,2743
+Shankar Rao,Supervisor,403,2825
+Manoj Shetty,Finishing Worker,556,2040
+Nagaraju Mishra,Mason,485,739
+Swamy Das,Mason,595,316
+Venkanna Shetty,Finishing Worker,708,1472
+Manoj Shetty,Painter,458,600
+Lakshman Shetty,Labour,545,101
+Venkat Kumar,Labour,449,1361
+Shankar Tripathi,Carpenter,942,2262
+Swamy Joshi,Electrician,595,1261
+Swamy Kumar,Tile Fitter,736,877
+Venkat Naik,Finishing Worker,948,2496
+Sunil Verma,Labour,974,2579
+Venkat Yadav,Plumber,452,1352
+Shankar Mishra,Electrician,512,2658
+Nagaraju Verma,Mason,984,347
+Kiran Chowdary,Site Engineer,846,922
+Manoj Patel,Site Engineer,894,1139
+Lakshman Naik,Tile Fitter,655,2395
+Sunil Das,Mason,613,2862
+Ramesh Kumar,Site Engineer,562,180
+Mahesh Reddy,Painter,869,473
+Venkat Yadav,Electrician,647,1939
+Naresh Chowdary,Electrician,477,1439
+Praveen Naik,Tile Fitter,540,1103
+Sharath Chowdary,Welder,408,1735
+Venkat Goud,Mason,621,2982
+Naresh Chari,Tile Fitter,958,1343
+Lakshman Mishra,Painter,947,340
+Shankar Goud,Welder,795,667
+Bharath Patel,Site Engineer,769,847
+Lakshman Tripathi,Site Engineer,857,2126
+Naresh Das,Electrician,400,2659
+Manoj Goud,Welder,689,1429
+Srinu Joshi,Plumber,722,584
+Bharath Naik,Mason,755,2492
+Bharath Reddy,Painter,617,1934
+Manoj Kumar,Welder,898,2140
+Swamy Tripathi,Carpenter,530,657
+Venkat Goud,Site Engineer,835,1472
+Mahesh Joshi,Plumber,775,1544
+Lakshman Singh,Labour,794,2576
+Lakshman Shetty,Painter,515,1120
+Raju Das,Welder,826,2241
+Venkat Rao,Painter,681,1953
+Naresh Goud,Welder,430,498
+Sunil Tripathi,Plumber,937,2546
+Raju Verma,Welder,572,636
+Bharath Goud,Supervisor,465,1037
+Kiran Yadav,Plumber,894,921
+Shankar Verma,Painter,670,252
+Anil Goud,Finishing Worker,418,2159
+Venkanna Yadav,Carpenter,448,2488
+Sharath Tripathi,Carpenter,492,825
+Srinivas Joshi,Plumber,481,2531
+Praveen Kumar,Supervisor,808,458
+Nagaraju Das,Carpenter,808,2303
+Mahesh Reddy,Carpenter,496,2560
+Kiran Tripathi,Supervisor,618,610
+Kiran Rao,Labour,682,1566
+Naresh Goud,Welder,892,2202
+Raju Singh,Finishing Worker,960,2984
+Sharath Rao,Plumber,975,1204
+Bharath Das,Welder,600,1030
+Venkanna Chari,Supervisor,832,2936
+Srinu Reddy,Plumber,860,2911
+Srinivas Patel,Carpenter,495,383
+Swamy Shetty,Finishing Worker,817,572
+Mahesh Das,Supervisor,438,642
+Srinivas Kumar,Supervisor,437,2753
+Kiran Patel,Welder,915,1368
+Shankar Chari,Labour,422,1764
+Shankar Chari,Site Engineer,618,826
+Raju Kumar,Electrician,640,1265
+Sharath Tripathi,Finishing Worker,710,2435
+Manoj Patel,Finishing Worker,525,2703
+Venkanna Chowdary,Site Engineer,828,430
+Venkat Chowdary,Electrician,990,143
+Srinivas Tripathi,Electrician,752,1474
+Nagaraju Singh,Electrician,765,217
+Venkanna Kumar,Mason,649,1438
+Lakshman Singh,Labour,548,2468
+Venkanna Yadav,Finishing Worker,530,859
+Raju Rao,Supervisor,739,2101
+Venkat Patel,Painter,543,1789
+Rajesh Chari,Mason,877,2605
+Naresh Joshi,Carpenter,999,882
+Anil Chowdary,Labour,812,1066
+Rajesh Naik,Painter,797,1603
+Sunil Reddy,Plumber,577,836
+Venkat Yadav,Tile Fitter,790,2483
+Venkanna Reddy,Supervisor,657,66
+Ramesh Chowdary,Tile Fitter,926,1341
+Mahesh Yadav,Welder,924,401
+Ramesh Patel,Painter,931,298
+Lakshman Mishra,Labour,444,2159
+Rajesh Das,Labour,633,1730
+Ramesh Singh,Painter,498,1254
+Manoj Naik,Finishing Worker,747,588
+Ramesh Tripathi,Electrician,770,2126
+Raju Yadav,Supervisor,443,2212
+Sunil Patel,Finishing Worker,783,2593
+Srinu Verma,Electrician,470,472
+Srinu Tripathi,Finishing Worker,584,685
+Bharath Verma,Tile Fitter,808,1604
+Srinu Chowdary,Labour,874,1396
+Sunil Das,Labour,717,137
+Srinu Chari,Labour,879,2161
+Sunil Patel,Mason,814,1725
+Srinu Shetty,Site Engineer,867,2909
+Sunil Yadav,Labour,973,1617
+Shankar Verma,Carpenter,695,1305
+Nagaraju Patel,Labour,927,394
+Nagaraju Naik,Labour,453,750
+Srinivas Yadav,Painter,791,90
+Shankar Kumar,Finishing Worker,560,137
+Venkanna Reddy,Carpenter,763,2520
+Sunil Singh,Supervisor,671,1917
+Srinivas Chari,Welder,663,211
+Kiran Yadav,Welder,984,1180
+Srinu Kumar,Finishing Worker,952,630
+Venkat Yadav,Labour,503,1400
+Praveen Naik,Plumber,683,2585
+Venkanna Goud,Carpenter,970,1871
+Nagaraju Chowdary,Carpenter,945,833
+Venkat Rao,Carpenter,642,1275
+Swamy Tripathi,Electrician,861,2502
+Praveen Tripathi,Tile Fitter,588,2968
+Rajesh Naik,Mason,764,1839
+Srinivas Reddy,Site Engineer,612,1208
+Bharath Kumar,Mason,600,1856
+Srinu Chowdary,Carpenter,534,2198
+Kiran Patel,Painter,856,1768
+Venkat Naik,Tile Fitter,937,1724
+Shankar Shetty,Electrician,592,2294
+Srinu Shetty,Welder,647,1949
+Venkat Goud,Mason,901,1044
+Venkat Das,Plumber,746,2362
+Raju Das,Finishing Worker,553,1513
+Naresh Patel,Plumber,444,1156
+Shankar Goud,Labour,870,1961
+Sharath Patel,Carpenter,720,618
+Venkanna Kumar,Finishing Worker,881,445
+Naresh Mishra,Site Engineer,458,1491
+Sharath Reddy,Supervisor,864,2912
+Ramesh Mishra,Supervisor,660,991
+Naresh Tripathi,Carpenter,560,897
+Naresh Reddy,Supervisor,661,1262
+Srinivas Naik,Plumber,932,50
+Kiran Yadav,Welder,577,17
+Sharath Joshi,Supervisor,975,241
+Ramesh Chari,Plumber,411,2086
+Kiran Chari,Labour,754,2644
+Raju Mishra,Finishing Worker,672,260
+Nagaraju Singh,Supervisor,526,2899
+Manoj Kumar,Finishing Worker,695,897
+Kiran Naik,Plumber,603,349
+Manoj Singh,Electrician,799,1535
+Srinivas Kumar,Carpenter,776,1429
+Srinu Mishra,Electrician,989,1508
+Bharath Verma,Finishing Worker,592,982
+Naresh Chowdary,Labour,731,1054
+Sharath Kumar,Mason,679,1680
+Anil Chowdary,Finishing Worker,925,421
+Anil Yadav,Supervisor,417,677
+Anil Mishra,Mason,927,409
+Sunil Das,Site Engineer,899,558
+Lakshman Yadav,Site Engineer,457,1183
+Lakshman Reddy,Mason,584,876
+Kiran Naik,Plumber,592,1149
+Venkanna Kumar,Site Engineer,967,818
+Swamy Das,Site Engineer,552,34
+Srinivas Rao,Carpenter,900,602
+Anil Mishra,Mason,607,1237
+Nagaraju Tripathi,Finishing Worker,874,2288
+Lakshman Naik,Tile Fitter,416,817
+Srinivas Das,Finishing Worker,880,2421
+Sunil Naik,Supervisor,486,2624
+Naresh Tripathi,Mason,691,2932
+Swamy Patel,Electrician,717,874
+Bharath Reddy,Site Engineer,462,2847
+Sharath Mishra,Mason,497,1312
+Swamy Chari,Painter,471,1945
+Raju Chowdary,Plumber,787,2592
+Sunil Yadav,Electrician,773,2715
+Raju Chari,Mason,649,540
+Praveen Chowdary,Carpenter,612,1210
+Praveen Rao,Finishing Worker,833,2732
+Srinivas Yadav,Painter,769,690
+Sharath Goud,Electrician,475,1006
+Raju Singh,Welder,830,2734
+Srinivas Yadav,Tile Fitter,435,795
+Rajesh Kumar,Mason,440,834
+Venkat Reddy,Supervisor,756,2938
+Lakshman Goud,Labour,462,890
+Srinivas Shetty,Labour,539,305
+Praveen Shetty,Welder,984,1025
+Ramesh Chowdary,Carpenter,744,1056
+Anil Joshi,Welder,934,1212
+Anil Chowdary,Electrician,985,2254
+Raju Yadav,Site Engineer,478,1163
+Praveen Goud,Plumber,523,1259
+Bharath Kumar,Labour,714,2316
+Shankar Chowdary,Supervisor,615,668
+Venkanna Das,Carpenter,688,2716
+Venkanna Mishra,Carpenter,987,1158
+Naresh Naik,Labour,634,1578
+Naresh Mishra,Painter,435,1042
+Srinu Tripathi,Carpenter,416,38
+Venkanna Shetty,Painter,672,1277
+Bharath Das,Mason,462,1064
+Anil Joshi,Site Engineer,612,1390
+Sharath Chowdary,Painter,814,950
+Swamy Tripathi,Electrician,562,2917
+Venkanna Chowdary,Supervisor,950,2020
+Shankar Yadav,Site Engineer,536,1361
+Venkanna Reddy,Plumber,816,1953
+Sharath Rao,Supervisor,509,317
+Venkat Shetty,Tile Fitter,541,1166
+Sunil Singh,Painter,436,1878
+Ramesh Reddy,Painter,714,1278
+Ramesh Singh,Labour,600,431
+Shankar Joshi,Finishing Worker,856,2443
+Kiran Chari,Supervisor,610,870
+Swamy Shetty,Painter,788,1615
+Naresh Kumar,Finishing Worker,895,2421
+Ramesh Shetty,Labour,877,2388
+Nagaraju Tripathi,Supervisor,754,625
+Ramesh Goud,Supervisor,966,1849
+Sharath Tripathi,Carpenter,683,206
+Srinu Goud,Site Engineer,849,1986
+Naresh Tripathi,Tile Fitter,894,1702
+Ramesh Verma,Labour,631,2811
+Sunil Patel,Welder,948,1864
+Sharath Goud,Labour,516,2009
+Sharath Yadav,Plumber,895,438
+Shankar Reddy,Plumber,799,2548
+Anil Shetty,Tile Fitter,517,523
+Nagaraju Chowdary,Labour,454,1054
+Swamy Shetty,Finishing Worker,915,2187
+Ramesh Tripathi,Labour,655,1174
+Srinu Patel,Supervisor,430,2681
+Kiran Yadav,Tile Fitter,646,2785
+Venkanna Patel,Electrician,462,68
+Venkanna Shetty,Welder,578,2459
+Lakshman Naik,Supervisor,488,437
+Manoj Rao,Finishing Worker,459,2585
+Kiran Verma,Finishing Worker,989,1137
+Bharath Das,Supervisor,889,1032
+Kiran Chowdary,Supervisor,592,48
+Ramesh Das,Tile Fitter,597,2254
+Anil Tripathi,Supervisor,763,92
+Anil Das,Site Engineer,951,256
+Sunil Chari,Painter,536,1275
+Bharath Shetty,Finishing Worker,549,1970
+Ramesh Joshi,Finishing Worker,899,892
+Rajesh Singh,Electrician,949,2417
+Mahesh Goud,Tile Fitter,713,1813
+Mahesh Tripathi,Welder,994,1549
+Swamy Naik,Mason,784,699
+Anil Das,Supervisor,857,2330
+Ramesh Joshi,Finishing Worker,462,2280
+Sunil Chari,Welder,433,511
+Lakshman Yadav,Supervisor,481,2907
+Naresh Verma,Welder,774,2339
+Sharath Patel,Tile Fitter,433,466
+Lakshman Tripathi,Finishing Worker,973,1374
+Swamy Patel,Tile Fitter,727,771
+Naresh Singh,Painter,910,2906
+Shankar Chari,Welder,501,1728
+Ramesh Singh,Finishing Worker,694,801
+Kiran Joshi,Plumber,539,309
+Manoj Rao,Carpenter,584,2025
+Mahesh Patel,Site Engineer,780,2055
+Praveen Chowdary,Supervisor,947,2452
+Shankar Joshi,Site Engineer,946,2262
+Mahesh Singh,Carpenter,961,1777
+Bharath Patel,Plumber,681,755
+Srinivas Singh,Mason,443,2708
+Nagaraju Rao,Plumber,412,1357
+Naresh Mishra,Painter,895,2580
+Srinivas Patel,Plumber,777,2525
+Swamy Chowdary,Labour,694,2908
+Kiran Shetty,Tile Fitter,967,1808
+Shankar Goud,Supervisor,850,2252
+Swamy Shetty,Electrician,776,596
+Srinu Yadav,Tile Fitter,573,138
+Praveen Chari,Supervisor,416,864
+Mahesh Naik,Painter,937,1187
+Manoj Naik,Carpenter,742,345
+Kiran Kumar,Carpenter,514,2454
+Mahesh Kumar,Labour,471,2948
+Bharath Mishra,Plumber,696,1535
+Mahesh Reddy,Supervisor,925,1155
+Venkat Singh,Electrician,775,901
+Bharath Das,Carpenter,657,1103
+Srinivas Chari,Site Engineer,465,2218
+Srinu Rao,Welder,720,1337
+Venkat Reddy,Plumber,613,1313
+Anil Yadav,Labour,780,515
+Swamy Rao,Carpenter,746,2975
+Shankar Joshi,Site Engineer,577,2324
+Naresh Joshi,Plumber,695,1160
+Praveen Patel,Painter,503,80
+Manoj Reddy,Site Engineer,955,926
+Mahesh Kumar,Mason,627,2174
+Venkat Rao,Plumber,702,673
+Sunil Kumar,Finishing Worker,748,1949
+Srinivas Naik,Plumber,423,2000
+Praveen Verma,Painter,851,2724
+Lakshman Rao,Welder,474,416
+Venkanna Mishra,Site Engineer,694,365
+Lakshman Chowdary,Supervisor,813,1740
+Kiran Das,Tile Fitter,940,2126
+Venkat Chowdary,Plumber,805,1343
+Naresh Rao,Carpenter,791,1240
+Kiran Chari,Electrician,756,1854
+Srinivas Das,Electrician,989,2655
+Srinivas Chowdary,Painter,412,2117
+Srinivas Chowdary,Supervisor,808,314
+Sunil Das,Tile Fitter,440,1520
+Kiran Naik,Carpenter,431,1587
+Sharath Shetty,Tile Fitter,657,2110
+Manoj Yadav,Finishing Worker,728,2041
+Lakshman Rao,Site Engineer,768,18
+Shankar Kumar,Painter,933,125
+Mahesh Das,Supervisor,680,2726
+Venkat Naik,Site Engineer,827,1302
+Venkat Reddy,Electrician,572,911
+Raju Shetty,Painter,504,2733
+Praveen Verma,Plumber,943,2489
+Rajesh Naik,Carpenter,897,2494
+Srinu Kumar,Carpenter,570,2611
+Praveen Chowdary,Carpenter,777,928
+Lakshman Das,Carpenter,885,2209
+Srinivas Joshi,Supervisor,809,633
+Sharath Rao,Plumber,863,2160
+Sunil Singh,Carpenter,688,1411
+Nagaraju Verma,Plumber,932,2065
+Raju Goud,Plumber,420,1102
+Sunil Joshi,Plumber,860,24
+Nagaraju Chowdary,Finishing Worker,927,2019
+Ramesh Das,Finishing Worker,504,366
+Naresh Goud,Plumber,748,2724
+Manoj Chowdary,Site Engineer,495,736
+Naresh Shetty,Finishing Worker,460,2111
+Sunil Rao,Labour,947,38
+Naresh Joshi,Painter,937,2050
+Anil Goud,Carpenter,624,2838
+Shankar Chari,Site Engineer,474,695
+Nagaraju Verma,Carpenter,410,996
+Manoj Tripathi,Labour,618,1014
+Sunil Shetty,Tile Fitter,405,2010
+Anil Singh,Welder,653,949
+Nagaraju Naik,Plumber,697,978
+Bharath Chowdary,Finishing Worker,629,1849
+Bharath Naik,Welder,454,887
+Naresh Das,Welder,908,1924
+Naresh Kumar,Welder,923,2221
+Sharath Shetty,Electrician,579,1272
+Sharath Yadav,Carpenter,984,1444
+Srinu Goud,Painter,906,633
+Raju Reddy,Painter,916,2632
+Nagaraju Shetty,Tile Fitter,505,1332
+Praveen Mishra,Plumber,913,1640
+Bharath Chari,Painter,577,1468
+Swamy Verma,Plumber,450,2773
+Raju Das,Supervisor,908,415
+Swamy Joshi,Mason,663,2755
+Venkanna Chowdary,Carpenter,777,1918
+Srinu Tripathi,Tile Fitter,459,146
+Swamy Yadav,Site Engineer,443,1187
+Bharath Shetty,Painter,641,2917
+Venkat Shetty,Electrician,413,2531
+Anil Goud,Plumber,926,2473
+Naresh Joshi,Electrician,647,2270
+Kiran Tripathi,Tile Fitter,486,2959
+Lakshman Shetty,Labour,753,73
+Praveen Tripathi,Finishing Worker,664,2842
+Kiran Chowdary,Site Engineer,764,2802
+Kiran Naik,Finishing Worker,597,1954
+Sharath Singh,Tile Fitter,509,2076
+Rajesh Verma,Tile Fitter,732,692
+Shankar Tripathi,Finishing Worker,624,2294
+Kiran Goud,Electrician,781,82
+Srinivas Patel,Carpenter,408,2570
+Shankar Rao,Finishing Worker,870,1980
+Sharath Tripathi,Site Engineer,890,65
+Venkat Goud,Carpenter,586,1347
+Manoj Reddy,Carpenter,526,1135
+Praveen Chowdary,Plumber,739,1313
+Naresh Yadav,Finishing Worker,768,1787
+Swamy Goud,Mason,619,2350
+Srinivas Yadav,Welder,426,2906
+Srinu Kumar,Electrician,992,2071
+Srinivas Patel,Carpenter,678,485
+Sharath Kumar,Supervisor,572,2806
+Shankar Rao,Welder,921,1572
+Rajesh Tripathi,Painter,731,2310
+Sharath Rao,Welder,738,1288
+Venkat Shetty,Labour,887,1480
+Mahesh Patel,Welder,870,770
+Sharath Singh,Painter,680,74
+Venkanna Verma,Tile Fitter,632,837
+Bharath Kumar,Tile Fitter,524,165
+Sunil Chari,Tile Fitter,981,2684
+Mahesh Chowdary,Plumber,435,1572
+Rajesh Goud,Site Engineer,989,545
+Sunil Verma,Mason,909,856
+Praveen Mishra,Site Engineer,569,1390
+Sunil Joshi,Electrician,467,2847
+Ramesh Goud,Plumber,778,2853
+Bharath Goud,Carpenter,922,2197
+Kiran Patel,Welder,704,693
+Praveen Shetty,Labour,616,1399
+Rajesh Kumar,Supervisor,922,1376
+Lakshman Yadav,Mason,842,1823
+Shankar Yadav,Mason,512,854
+Naresh Yadav,Site Engineer,772,777
+Bharath Goud,Welder,753,1520
+Anil Chowdary,Plumber,791,2896
+Nagaraju Mishra,Painter,408,590
+Nagaraju Mishra,Supervisor,685,1480
+Sharath Verma,Supervisor,541,2669
+Sharath Das,Labour,498,2765
+Anil Tripathi,Carpenter,600,2200
+Nagaraju Yadav,Carpenter,552,2965
+Rajesh Patel,Finishing Worker,559,2580
+Anil Patel,Carpenter,545,2103
+Nagaraju Das,Welder,757,108
+Raju Verma,Tile Fitter,894,1287
+Raju Singh,Labour,704,1677
+Sunil Shetty,Mason,403,815
+Nagaraju Singh,Welder,749,541
+Nagaraju Patel,Electrician,441,1006
+Sunil Tripathi,Carpenter,588,1469
+Rajesh Mishra,Electrician,574,234
+Naresh Kumar,Carpenter,705,2358
+Anil Kumar,Plumber,988,1123
+Sharath Verma,Finishing Worker,457,2807
+Anil Singh,Mason,866,1038
+Rajesh Shetty,Labour,587,732
+Naresh Patel,Plumber,863,204
+Venkanna Das,Carpenter,533,2973
+Shankar Rao,Welder,632,2517
+Srinivas Singh,Plumber,575,2323
+Anil Kumar,Site Engineer,591,2410
+Venkat Das,Tile Fitter,946,1606
+Nagaraju Goud,Finishing Worker,537,435
+Venkat Tripathi,Site Engineer,852,1569
+Manoj Mishra,Tile Fitter,895,2120
+Nagaraju Naik,Carpenter,462,640
+Sunil Tripathi,Carpenter,807,2694
+Naresh Singh,Tile Fitter,785,374
+Srinivas Mishra,Supervisor,917,682
+Venkat Shetty,Mason,595,2951
+Shankar Tripathi,Labour,581,1146
+Lakshman Singh,Supervisor,744,1079
+Manoj Yadav,Painter,538,2491
+Sharath Mishra,Plumber,804,1535
+Raju Shetty,Labour,889,1975
+Mahesh Verma,Site Engineer,815,1158
+Bharath Chowdary,Finishing Worker,651,2421
+Bharath Goud,Tile Fitter,961,233
+Naresh Chowdary,Painter,986,1064
+Venkanna Chari,Finishing Worker,565,2020
+Swamy Mishra,Painter,812,2692
+Anil Das,Electrician,897,639
+Sharath Das,Electrician,410,2683
+Raju Rao,Plumber,898,1461
+Anil Yadav,Carpenter,536,135
+Nagaraju Mishra,Electrician,873,644
+Swamy Rao,Labour,765,689
+Kiran Tripathi,Electrician,793,2132
+Nagaraju Shetty,Tile Fitter,653,680
+Raju Verma,Tile Fitter,736,135
+Praveen Yadav,Plumber,680,1356
+Manoj Goud,Labour,505,817
+Naresh Naik,Welder,903,1278
+Raju Joshi,Welder,844,85
+Shankar Yadav,Painter,953,1783
+Raju Singh,Tile Fitter,412,1825
+Shankar Tripathi,Tile Fitter,443,1691
+Manoj Singh,Plumber,893,983
+Swamy Das,Plumber,720,2963
+Lakshman Naik,Painter,747,2841
+Sharath Verma,Finishing Worker,724,1998
+Venkat Verma,Finishing Worker,433,696
+Lakshman Goud,Tile Fitter,865,1846
+Shankar Rao,Welder,706,828
+Venkat Chowdary,Mason,553,744
+Lakshman Singh,Welder,580,936
+Rajesh Tripathi,Plumber,955,1626
+Srinu Naik,Finishing Worker,775,2631
+Swamy Chari,Labour,488,1287
+Kiran Goud,Electrician,794,2008
+Ramesh Joshi,Electrician,929,2782
+Nagaraju Joshi,Mason,864,2773
+Bharath Mishra,Electrician,455,314
+Venkat Rao,Electrician,817,372
+Sunil Shetty,Finishing Worker,707,352
+Kiran Kumar,Welder,757,1964
+Raju Das,Mason,839,2385
+Manoj Yadav,Site Engineer,554,1836
+Praveen Joshi,Site Engineer,459,1676
+Lakshman Rao,Site Engineer,502,2329
+Lakshman Reddy,Site Engineer,918,2363
+Manoj Kumar,Tile Fitter,650,668
+Sharath Kumar,Site Engineer,481,504
+Raju Goud,Electrician,709,272
+Rajesh Patel,Painter,944,688
+Venkanna Tripathi,Carpenter,856,776
+Srinu Goud,Painter,831,2030
+Manoj Mishra,Mason,421,416
+Bharath Das,Mason,740,2303
+Mahesh Joshi,Welder,476,1099
+Raju Patel,Site Engineer,486,2429
+Swamy Das,Tile Fitter,729,284
+Venkanna Mishra,Finishing Worker,544,1123
+Naresh Kumar,Electrician,421,2419
+Mahesh Rao,Finishing Worker,829,2844
+Swamy Reddy,Painter,465,67
+Rajesh Kumar,Welder,935,238
+Nagaraju Singh,Electrician,797,1140
+Venkat Rao,Carpenter,866,2700
+Ramesh Verma,Tile Fitter,669,902
+Rajesh Singh,Finishing Worker,538,2368
+Shankar Joshi,Mason,420,2325
+Venkanna Reddy,Electrician,430,812
+Venkat Mishra,Plumber,508,2778
+Swamy Das,Painter,670,1343
+Ramesh Patel,Plumber,994,295
+Sunil Patel,Carpenter,668,2201
+Sharath Kumar,Carpenter,779,879
+Bharath Chowdary,Mason,443,1168
+Anil Naik,Painter,575,2328
+Naresh Reddy,Site Engineer,596,1124
+Kiran Joshi,Mason,627,2640
+Naresh Yadav,Site Engineer,956,2125
+Lakshman Joshi,Painter,751,1481
+Nagaraju Kumar,Welder,447,421
+Kiran Singh,Labour,973,1840
+Lakshman Singh,Finishing Worker,955,213
+Raju Rao,Painter,454,481
+Nagaraju Singh,Site Engineer,458,1409
+Venkanna Rao,Site Engineer,725,1802
+Sharath Singh,Welder,803,2058
+Naresh Joshi,Labour,601,1660
+Rajesh Naik,Finishing Worker,600,231
+Swamy Chari,Finishing Worker,692,1006
+Venkat Yadav,Carpenter,413,57
+Rajesh Joshi,Mason,957,41
+Srinu Chowdary,Carpenter,419,938
+Venkanna Singh,Labour,599,1532
+Nagaraju Chari,Welder,833,2790
+Srinu Reddy,Tile Fitter,508,1075
+Rajesh Tripathi,Tile Fitter,616,2522
+Kiran Chowdary,Painter,955,1320
+Nagaraju Patel,Labour,640,2067
+Swamy Rao,Labour,422,2243
+Shankar Mishra,Labour,775,2570
+Naresh Das,Mason,673,728
+Anil Shetty,Mason,968,481
+Venkanna Goud,Tile Fitter,815,2040
+Swamy Yadav,Electrician,790,1379
+Sunil Shetty,Carpenter,888,453
+Sunil Das,Mason,571,609
+Nagaraju Singh,Carpenter,541,2158
+Rajesh Verma,Carpenter,559,162
+Srinu Naik,Welder,675,2735
+Lakshman Goud,Welder,573,87
+Lakshman Rao,Welder,963,200
+Venkanna Chari,Site Engineer,542,1092
+Sharath Singh,Carpenter,978,2498
+Kiran Yadav,Finishing Worker,865,564
+Anil Goud,Welder,484,356
+Sharath Joshi,Labour,613,1062
+Manoj Rao,Welder,472,479
+Ramesh Tripathi,Carpenter,889,2228
+Shankar Joshi,Plumber,792,2504
+Venkanna Verma,Labour,947,1127
+Kiran Verma,Welder,549,705
+Venkanna Chowdary,Welder,707,1881
+Naresh Goud,Supervisor,983,1363
+Sunil Patel,Mason,562,1079
+Srinivas Reddy,Finishing Worker,915,787
+Lakshman Naik,Plumber,893,2138
+Venkanna Rao,Finishing Worker,852,421
+Shankar Das,Carpenter,589,634
+Praveen Rao,Welder,880,1900
+Ramesh Joshi,Tile Fitter,759,721
+Praveen Chowdary,Carpenter,763,1914
+Mahesh Goud,Carpenter,994,1266
+Praveen Shetty,Finishing Worker,806,269
+Kiran Tripathi,Tile Fitter,576,311
+Srinu Reddy,Plumber,743,426
+Lakshman Patel,Carpenter,561,560
+Naresh Chowdary,Tile Fitter,759,2608
+Rajesh Singh,Finishing Worker,637,2981
+Raju Tripathi,Painter,928,278
+Sunil Verma,Plumber,547,2244
+Bharath Chari,Mason,590,2535
+Nagaraju Kumar,Welder,918,1595
+Kiran Goud,Site Engineer,696,2727
+Raju Tripathi,Mason,733,1952
+Anil Rao,Welder,830,307
+Kiran Patel,Supervisor,541,487
+Shankar Verma,Painter,874,2647
+Venkanna Kumar,Finishing Worker,835,2654
+Venkat Reddy,Painter,854,1051
+Srinu Chari,Plumber,827,889
+Praveen Goud,Finishing Worker,426,2616
+Shankar Patel,Mason,829,2322
+Ramesh Chowdary,Painter,640,111
+Sharath Chari,Supervisor,842,2345
+Mahesh Naik,Finishing Worker,505,670
+Srinu Chari,Tile Fitter,471,459
+Naresh Mishra,Electrician,524,1903
+Anil Patel,Painter,557,699
+Praveen Das,Tile Fitter,805,11
+Venkat Das,Labour,959,1002
+Mahesh Joshi,Carpenter,897,2156
+Manoj Singh,Supervisor,627,791
+Manoj Kumar,Labour,649,1651
+Anil Patel,Tile Fitter,677,2706
+Praveen Yadav,Tile Fitter,840,2413
+Manoj Yadav,Labour,469,540
+Lakshman Tripathi,Mason,471,2568
+Mahesh Tripathi,Tile Fitter,532,219
+Bharath Verma,Site Engineer,575,1069
+Mahesh Goud,Carpenter,408,84
+Venkanna Verma,Site Engineer,443,2266
+Shankar Singh,Tile Fitter,735,2471
+Mahesh Chowdary,Welder,734,1843
+Raju Naik,Tile Fitter,600,1110
+Nagaraju Naik,Finishing Worker,629,829
+Mahesh Shetty,Finishing Worker,548,1605
+Shankar Naik,Finishing Worker,692,301
+Raju Rao,Supervisor,747,482
+Sunil Yadav,Labour,684,375
+Srinu Chowdary,Labour,846,28
+Bharath Chowdary,Supervisor,646,2926
+Srinu Chowdary,Mason,616,2459
+Srinivas Reddy,Mason,777,2126
+Swamy Das,Electrician,750,636
+Ramesh Joshi,Welder,581,316
+Srinivas Rao,Site Engineer,582,209
+Mahesh Shetty,Painter,791,1706
+Nagaraju Reddy,Site Engineer,900,2296
+Manoj Yadav,Carpenter,887,542
+Sharath Chari,Electrician,777,208
+Venkat Joshi,Plumber,507,2818
+Raju Joshi,Plumber,642,885
+Venkat Chowdary,Welder,645,1693
+Venkanna Kumar,Carpenter,672,305
+Rajesh Patel,Mason,863,1110
+Srinivas Joshi,Supervisor,487,182
+Venkat Naik,Electrician,534,499
+Venkat Naik,Painter,739,996
+Anil Chowdary,Electrician,455,2421
+Rajesh Singh,Labour,651,70
+Srinivas Verma,Mason,710,1531
+Ramesh Das,Tile Fitter,921,2129
+Kiran Das,Site Engineer,514,46
+Sharath Tripathi,Mason,574,1350
+Mahesh Naik,Welder,450,384
+Srinu Yadav,Painter,736,2399
+Sharath Verma,Electrician,447,2453
+Anil Singh,Welder,981,645
+Anil Kumar,Electrician,496,1934
+Lakshman Reddy,Site Engineer,466,1510
+Manoj Reddy,Mason,812,1966
+Bharath Singh,Electrician,890,2015
+Ramesh Das,Mason,776,2580
+Manoj Chowdary,Welder,767,1926
+Kiran Goud,Tile Fitter,499,251
+Sharath Yadav,Mason,558,1931
+Raju Tripathi,Electrician,995,637
+Venkat Goud,Painter,427,654
+Venkat Singh,Mason,417,1224
+Anil Shetty,Tile Fitter,863,1387
+Sharath Yadav,Painter,912,1314
+Srinivas Reddy,Finishing Worker,886,805
+Raju Tripathi,Painter,624,1270
+Lakshman Goud,Mason,750,619
+Kiran Reddy,Tile Fitter,701,428
+Kiran Goud,Plumber,548,2468
+Venkanna Reddy,Electrician,610,1109
+Mahesh Chowdary,Plumber,675,145
+Srinivas Shetty,Finishing Worker,696,275
+Naresh Reddy,Plumber,981,1431
+Swamy Reddy,Welder,626,907
+Shankar Shetty,Site Engineer,843,2286
+Naresh Naik,Welder,862,955
+Bharath Tripathi,Finishing Worker,727,986
+Venkat Rao,Tile Fitter,803,1024
+Nagaraju Rao,Supervisor,473,1708
+Srinu Rao,Labour,736,1006
+Sunil Rao,Finishing Worker,780,663
+Sunil Chowdary,Site Engineer,961,2159
+Praveen Rao,Painter,409,475
+Srinivas Singh,Supervisor,671,1175
+Swamy Yadav,Painter,945,1912
+Rajesh Verma,Tile Fitter,495,1102
+Srinivas Naik,Supervisor,568,1646
+Sunil Goud,Site Engineer,837,1211
+Srinivas Das,Electrician,969,1162
+Srinu Naik,Site Engineer,617,1388
+Venkat Joshi,Site Engineer,489,1230
+Ramesh Shetty,Carpenter,613,2784
+Manoj Reddy,Supervisor,441,386
+Rajesh Shetty,Electrician,658,767
+Nagaraju Reddy,Labour,491,941
+Lakshman Verma,Painter,712,2543
+Rajesh Chowdary,Finishing Worker,893,1715
+Srinu Tripathi,Labour,935,2303
+Venkanna Chowdary,Finishing Worker,603,1489
+Mahesh Shetty,Welder,426,1649
+Naresh Rao,Supervisor,463,783
+Anil Chari,Welder,730,1099
+Sunil Kumar,Finishing Worker,805,33
+Bharath Reddy,Supervisor,910,2765
+Venkanna Yadav,Supervisor,700,842
+Manoj Chari,Site Engineer,501,2043
+Swamy Joshi,Plumber,733,488
+Anil Verma,Welder,783,317
+Naresh Rao,Welder,497,2801
+Naresh Das,Welder,748,297
+Venkat Tripathi,Mason,421,2082
+Shankar Rao,Carpenter,551,1575
+Anil Mishra,Mason,590,1138
+Lakshman Joshi,Plumber,426,2496
+Srinivas Joshi,Supervisor,957,1047
+Shankar Rao,Welder,717,2241
+Praveen Naik,Finishing Worker,863,573
+Praveen Mishra,Carpenter,632,312
+Lakshman Chari,Painter,485,2221
+Sunil Chari,Mason,922,2290
+Mahesh Rao,Supervisor,610,2889
+Anil Verma,Mason,608,2120
+Srinivas Verma,Welder,794,685
+Nagaraju Mishra,Electrician,781,1629
+Shankar Rao,Plumber,427,1776
+Venkanna Mishra,Finishing Worker,741,607
+Srinu Das,Welder,917,1
+Venkat Das,Tile Fitter,855,714
+Shankar Chowdary,Supervisor,807,2225
+Venkat Patel,Site Engineer,863,1532
+Manoj Verma,Electrician,760,2478
+Lakshman Mishra,Plumber,813,207
+Nagaraju Kumar,Electrician,695,2835
+Bharath Singh,Welder,931,2002
+Rajesh Tripathi,Tile Fitter,981,643
+Manoj Patel,Painter,636,1993
+Naresh Shetty,Supervisor,509,1862
+Naresh Naik,Welder,665,1246
+Praveen Chari,Painter,986,634
+Lakshman Patel,Painter,678,824
+Swamy Singh,Tile Fitter,653,1435
+Sunil Naik,Tile Fitter,487,1233
+Lakshman Singh,Site Engineer,884,1234
+Kiran Kumar,Electrician,609,1892
+Shankar Tripathi,Finishing Worker,572,987
+Sharath Shetty,Tile Fitter,457,1581
+Raju Mishra,Finishing Worker,447,1675
+Naresh Kumar,Finishing Worker,933,1829
+Venkanna Patel,Tile Fitter,568,1845
+Srinivas Kumar,Labour,720,957
+Srinu Verma,Labour,440,596
+Raju Patel,Painter,475,1803
+Kiran Reddy,Supervisor,521,1448
+Anil Naik,Site Engineer,959,1098
+Srinivas Singh,Tile Fitter,554,541
+Shankar Patel,Tile Fitter,514,894
+Sunil Singh,Finishing Worker,485,939
+Kiran Naik,Supervisor,446,441
+Lakshman Mishra,Electrician,445,1911
+Venkanna Kumar,Site Engineer,976,2923
+Lakshman Joshi,Site Engineer,613,2576
+Manoj Tripathi,Carpenter,478,2950
+Srinu Mishra,Mason,795,833
+Swamy Tripathi,Supervisor,512,1118
+Raju Joshi,Plumber,820,622
+Raju Singh,Tile Fitter,783,2644
+Ramesh Mishra,Painter,460,1402
+Rajesh Joshi,Tile Fitter,675,2346
+Venkat Rao,Finishing Worker,594,2195
+Manoj Chari,Supervisor,596,1679
+Venkat Joshi,Mason,703,1229
+Praveen Rao,Carpenter,630,1543
+Manoj Kumar,Finishing Worker,693,2175
+Srinivas Mishra,Mason,776,278
+Raju Tripathi,Site Engineer,487,2961
+Raju Mishra,Finishing Worker,953,610
+Raju Rao,Mason,847,163
+Anil Kumar,Site Engineer,521,382
+Venkat Reddy,Mason,965,751
+Sharath Goud,Finishing Worker,731,2522
+Rajesh Singh,Mason,806,656
+Lakshman Tripathi,Labour,447,1576
+Shankar Yadav,Painter,740,448
+Shankar Patel,Painter,608,2073
+Praveen Rao,Electrician,882,2948
+Mahesh Chowdary,Tile Fitter,789,2040
+Swamy Mishra,Plumber,722,1384
+Nagaraju Patel,Labour,976,933
+Bharath Mishra,Painter,901,1499
+Raju Patel,Site Engineer,839,2240
+Rajesh Goud,Plumber,825,1310
+Sunil Verma,Welder,424,1060
+Praveen Patel,Plumber,600,309
+Anil Reddy,Site Engineer,771,1234
+Shankar Shetty,Finishing Worker,600,535
+Praveen Verma,Carpenter,575,1228
+Lakshman Reddy,Painter,794,625
+Ramesh Patel,Site Engineer,541,1945
+Srinu Patel,Plumber,696,305
+Srinu Shetty,Supervisor,977,61
+Venkanna Rao,Plumber,981,286
+Praveen Verma,Welder,723,176
+Lakshman Shetty,Plumber,892,208
+Shankar Chowdary,Electrician,877,2857
+Lakshman Tripathi,Electrician,835,327
+Lakshman Joshi,Labour,417,2823
+Naresh Mishra,Welder,402,1911
+Shankar Joshi,Tile Fitter,960,2639
+Swamy Chari,Site Engineer,805,2578
+Ramesh Yadav,Plumber,839,1749
+Kiran Naik,Labour,718,2411
+Swamy Goud,Labour,921,1333
+Swamy Joshi,Supervisor,928,851
+Raju Chari,Finishing Worker,524,1483
+Anil Naik,Plumber,898,2258
+Anil Mishra,Carpenter,942,2294
+Srinu Goud,Electrician,854,1281
+Nagaraju Reddy,Painter,512,1222
+Mahesh Naik,Supervisor,783,1490
+Nagaraju Goud,Finishing Worker,681,1343
+Srinu Das,Site Engineer,977,2526
+Anil Das,Tile Fitter,824,1918
+Venkanna Das,Painter,993,1655
+Anil Shetty,Welder,565,2180
+Srinu Shetty,Electrician,876,1223
+Shankar Joshi,Mason,607,2269
+Srinivas Das,Electrician,602,2445
+Srinivas Patel,Finishing Worker,492,499
+Nagaraju Verma,Supervisor,409,2449
+Nagaraju Joshi,Site Engineer,681,1903
+Mahesh Yadav,Finishing Worker,935,1262
+Mahesh Chari,Supervisor,821,2180
+Venkat Joshi,Site Engineer,683,2488
+Ramesh Chari,Labour,482,674
+Praveen Verma,Electrician,689,2840
+Srinivas Chari,Labour,509,2225
+Shankar Yadav,Labour,445,1554
+Rajesh Naik,Supervisor,797,1254
+Naresh Naik,Labour,978,1482
+Srinivas Das,Site Engineer,501,2215
+Mahesh Goud,Electrician,492,958
+Nagaraju Patel,Carpenter,450,1251
+Bharath Singh,Electrician,787,1039
+Naresh Das,Labour,454,1975
+Venkat Goud,Carpenter,502,30
+Srinu Joshi,Labour,994,92
+Srinu Yadav,Plumber,442,695
+Shankar Shetty,Tile Fitter,473,1368
+Ramesh Verma,Supervisor,953,765
+Rajesh Patel,Plumber,476,2777
+Sharath Shetty,Plumber,496,2652
+Kiran Mishra,Supervisor,806,1768
+Sunil Patel,Painter,927,283
+Ramesh Patel,Site Engineer,519,1340
+Lakshman Goud,Finishing Worker,475,2316
+Swamy Chowdary,Painter,992,2183
+Mahesh Reddy,Welder,900,765
+Venkanna Patel,Electrician,765,1079
+Srinivas Rao,Painter,420,1700
+Swamy Verma,Labour,440,341
+Raju Das,Site Engineer,601,2725
+Sunil Chowdary,Supervisor,721,553
+Anil Shetty,Labour,572,1027
+Sharath Chowdary,Welder,473,1533
+Mahesh Naik,Site Engineer,548,1470
+Sunil Goud,Labour,646,2755
+Lakshman Tripathi,Site Engineer,916,2081
+Naresh Patel,Labour,623,1745
+Sharath Patel,Finishing Worker,430,1713
+Sharath Das,Painter,931,2269
+Naresh Rao,Painter,670,2272
+Sunil Kumar,Electrician,520,1029
+Naresh Yadav,Site Engineer,542,173
+Anil Tripathi,Labour,598,2523
+Sunil Naik,Tile Fitter,874,291
+Shankar Singh,Supervisor,982,1820
+Bharath Mishra,Mason,740,2518
+Sunil Singh,Finishing Worker,428,2580
+Shankar Mishra,Plumber,850,1584
+Shankar Patel,Electrician,962,670
+Lakshman Shetty,Mason,620,705
+Nagaraju Yadav,Site Engineer,929,2462
+Manoj Das,Finishing Worker,603,1022
+Kiran Chari,Welder,878,942
+Praveen Yadav,Mason,869,2683
+Sunil Shetty,Tile Fitter,469,90
+Lakshman Shetty,Painter,932,233
+Lakshman Reddy,Painter,860,1054
+Bharath Das,Finishing Worker,672,1871
+Swamy Goud,Painter,483,1691
+Raju Shetty,Electrician,959,1878
+Lakshman Mishra,Finishing Worker,832,1677
+Manoj Joshi,Carpenter,722,1318
+Naresh Tripathi,Painter,591,946
+Praveen Chari,Carpenter,413,1026
+Rajesh Tripathi,Tile Fitter,725,1264
+Srinivas Verma,Tile Fitter,448,2666
+Anil Chari,Welder,689,1464
+Nagaraju Joshi,Painter,641,2895
+Lakshman Patel,Site Engineer,485,2412
+Raju Yadav,Painter,794,1541
+Kiran Mishra,Tile Fitter,408,871
+Naresh Yadav,Welder,549,1213
+Ramesh Shetty,Labour,561,2510
+Raju Chari,Tile Fitter,533,1104
+Kiran Rao,Carpenter,698,350
+Ramesh Chowdary,Electrician,773,558
+Nagaraju Chari,Labour,764,943
+Kiran Mishra,Site Engineer,721,2130
+Swamy Shetty,Electrician,492,1167
+Nagaraju Shetty,Finishing Worker,931,2428
+Anil Mishra,Painter,852,1353
+Raju Chari,Welder,668,690
+Venkanna Shetty,Finishing Worker,680,718
+Manoj Shetty,Labour,451,1694
+Manoj Chari,Site Engineer,637,989
+Swamy Goud,Supervisor,590,2503
+Srinivas Patel,Welder,409,1775
+Ramesh Verma,Welder,791,1369
+Naresh Joshi,Tile Fitter,864,1862
+Srinivas Mishra,Finishing Worker,420,145
+Sharath Kumar,Finishing Worker,640,336
+Praveen Tripathi,Plumber,978,952
+Manoj Mishra,Painter,877,1011
+Mahesh Das,Carpenter,921,959
+Mahesh Kumar,Plumber,522,19
+Sunil Mishra,Site Engineer,647,1049
+Venkanna Mishra,Mason,760,2017
+Manoj Mishra,Tile Fitter,781,2430
+Lakshman Singh,Welder,773,604
+Bharath Chowdary,Painter,966,1266
+Nagaraju Chari,Plumber,650,2708
+Sharath Mishra,Labour,658,2687
+Praveen Yadav,Site Engineer,415,2076
+Sunil Chari,Finishing Worker,528,877
+Bharath Shetty,Plumber,462,1833
+Srinu Reddy,Painter,581,1350
+Sharath Rao,Supervisor,915,2064
+Kiran Chari,Painter,930,2481
+Venkanna Chowdary,Welder,531,111
+Rajesh Joshi,Electrician,872,2590
+Sharath Goud,Plumber,979,831
+Sharath Chari,Electrician,618,2674
+Manoj Mishra,Labour,546,2925
+Bharath Kumar,Mason,593,715
+Lakshman Rao,Supervisor,424,2747
+Bharath Das,Welder,506,215
+Venkat Tripathi,Tile Fitter,852,1673
+Raju Verma,Welder,547,640
+Raju Goud,Tile Fitter,959,1445
+Lakshman Chari,Site Engineer,760,18
+Shankar Mishra,Plumber,603,502
+Shankar Das,Painter,923,791
+Swamy Yadav,Site Engineer,681,2394
+Srinivas Mishra,Site Engineer,922,1407
+Shankar Kumar,Plumber,845,2036
+Nagaraju Das,Finishing Worker,908,2124
+Sunil Chari,Welder,813,928
+Manoj Mishra,Mason,949,243
+Swamy Kumar,Finishing Worker,766,2746
+Swamy Patel,Finishing Worker,513,2070
+Swamy Tripathi,Supervisor,888,373
+Srinivas Rao,Carpenter,494,2798
+Sharath Singh,Tile Fitter,498,1206
+Srinivas Reddy,Mason,961,916
+Lakshman Chowdary,Supervisor,431,551
+Venkanna Singh,Site Engineer,460,17
+Venkanna Verma,Painter,667,941
+Raju Naik,Painter,943,2442
+Raju Rao,Painter,482,934
+Bharath Kumar,Painter,454,1622
+Bharath Mishra,Site Engineer,963,1649
+Venkat Yadav,Tile Fitter,655,1418
+Lakshman Kumar,Welder,509,411
+Raju Kumar,Welder,930,101
+Swamy Joshi,Painter,776,2043
+Rajesh Kumar,Welder,710,546
+Anil Kumar,Tile Fitter,668,559
+Manoj Yadav,Supervisor,619,2145
+Swamy Shetty,Mason,597,1545
+Sharath Patel,Finishing Worker,748,775
+Bharath Reddy,Carpenter,731,1319
+Nagaraju Das,Mason,690,2699
+Mahesh Das,Carpenter,896,1822
+Srinivas Rao,Electrician,813,324
+Anil Kumar,Finishing Worker,715,234
+Sharath Naik,Labour,926,1359
+Rajesh Reddy,Mason,637,349
+Sharath Das,Tile Fitter,819,535
+Raju Mishra,Finishing Worker,890,923
+Venkat Mishra,Tile Fitter,655,2448
+Raju Mishra,Electrician,906,1329
+Nagaraju Verma,Labour,928,432
+Nagaraju Yadav,Tile Fitter,664,1669
+Venkat Reddy,Finishing Worker,815,2094
+Manoj Shetty,Finishing Worker,968,2939
+Rajesh Das,Site Engineer,672,2897
+Anil Tripathi,Labour,744,2384
+Raju Kumar,Welder,767,2145
+Rajesh Patel,Plumber,893,1741
+Ramesh Rao,Tile Fitter,987,2331
+Lakshman Yadav,Plumber,829,603
+Rajesh Singh,Electrician,468,1854
+Raju Chowdary,Labour,748,1730
+Swamy Reddy,Painter,423,578
+Sunil Chari,Plumber,529,527
+Srinu Tripathi,Plumber,870,1977
+Venkanna Mishra,Carpenter,741,720
+Ramesh Yadav,Plumber,689,1308
+Rajesh Das,Mason,992,812
+Anil Kumar,Labour,788,2096
+Srinu Chowdary,Mason,627,2422
+Lakshman Reddy,Finishing Worker,816,1631
+Shankar Shetty,Finishing Worker,433,534
+Sunil Verma,Mason,819,863
+Lakshman Naik,Welder,697,1647
+Mahesh Chowdary,Carpenter,507,2764
+Ramesh Naik,Electrician,904,920
+Lakshman Reddy,Plumber,732,1592
+Rajesh Kumar,Mason,895,867
+Sunil Rao,Finishing Worker,932,1699
+Lakshman Yadav,Supervisor,918,862
+Bharath Singh,Labour,529,641
+Swamy Chari,Finishing Worker,923,541
+Shankar Das,Painter,400,1243
+Shankar Rao,Plumber,627,1565
+Ramesh Chari,Carpenter,931,2182
+Praveen Singh,Finishing Worker,579,1399
+Anil Shetty,Finishing Worker,686,446
+Raju Chari,Site Engineer,893,268
+Naresh Rao,Tile Fitter,560,2008
+Venkat Shetty,Painter,702,194
+Bharath Chowdary,Supervisor,949,1047
+Lakshman Goud,Plumber,483,1529
+Lakshman Kumar,Electrician,747,317
+Venkat Joshi,Carpenter,632,680
+Sharath Patel,Mason,615,2303
+Mahesh Joshi,Plumber,644,2844
+Naresh Reddy,Carpenter,531,1896
+Bharath Kumar,Site Engineer,753,2631
+Venkat Singh,Carpenter,994,1262
+Shankar Tripathi,Tile Fitter,887,1766
+Sunil Singh,Finishing Worker,960,2422
+Lakshman Tripathi,Site Engineer,675,1827
+Raju Yadav,Carpenter,714,1303
+Manoj Singh,Site Engineer,406,1946
+Rajesh Joshi,Painter,502,2867
+Kiran Singh,Electrician,894,2480
+Swamy Goud,Labour,503,1297
+Praveen Goud,Plumber,596,1533
+Kiran Verma,Carpenter,422,791
+Kiran Chowdary,Electrician,549,1642
+Srinivas Kumar,Supervisor,592,277
+Praveen Kumar,Site Engineer,877,339
+Praveen Das,Welder,578,2426
+Lakshman Chari,Welder,514,896
+Manoj Patel,Finishing Worker,574,675
+Sunil Goud,Labour,589,958
+Kiran Rao,Tile Fitter,662,2337
+Srinu Joshi,Supervisor,847,2367
+Nagaraju Joshi,Plumber,615,2334
+Lakshman Kumar,Carpenter,884,68
+Nagaraju Tripathi,Painter,509,2276
+Bharath Joshi,Supervisor,685,2472
+Shankar Patel,Welder,958,590
+Bharath Kumar,Finishing Worker,786,367
+Venkat Goud,Mason,710,571
+Swamy Goud,Carpenter,861,2253
+Mahesh Naik,Labour,417,4
+Naresh Joshi,Labour,600,297
+Nagaraju Naik,Tile Fitter,621,2421
+Rajesh Goud,Electrician,452,1523
+Praveen Chowdary,Tile Fitter,687,2761
+Kiran Shetty,Mason,606,1956
+Srinu Shetty,Supervisor,956,640
+Sharath Yadav,Labour,533,2706
+Srinu Shetty,Plumber,685,774
+Praveen Chowdary,Welder,707,1603
+Sunil Joshi,Plumber,615,1538
+Naresh Rao,Painter,605,921
+Anil Chowdary,Supervisor,891,1429
+Sharath Verma,Site Engineer,852,1349
+Kiran Reddy,Finishing Worker,553,24
+Ramesh Rao,Plumber,561,879
+Kiran Joshi,Tile Fitter,697,2845
+Praveen Singh,Plumber,915,2027
+Shankar Das,Tile Fitter,986,2989
+Manoj Shetty,Site Engineer,439,2280
+Kiran Chari,Finishing Worker,727,2430
+Praveen Das,Electrician,589,1512
+Raju Singh,Supervisor,485,1560
+Raju Mishra,Labour,894,1078
+Anil Chari,Tile Fitter,677,225
+Praveen Verma,Tile Fitter,940,2475
+Raju Chari,Finishing Worker,709,2397
+Shankar Patel,Supervisor,485,1232
+Raju Das,Supervisor,608,2944
+Venkanna Shetty,Plumber,498,1974
+Nagaraju Patel,Welder,810,1804
+Venkanna Reddy,Electrician,978,2026
+Srinu Singh,Mason,785,211
+Ramesh Joshi,Painter,613,1090
+Sharath Joshi,Mason,578,1487
+Ramesh Naik,Finishing Worker,477,1721
+Swamy Goud,Welder,567,2172
+Mahesh Kumar,Tile Fitter,400,2826
+Kiran Chowdary,Labour,437,1872
+Lakshman Joshi,Finishing Worker,501,2192
+Venkanna Rao,Site Engineer,843,1802
+Sunil Reddy,Welder,633,1328
+Ramesh Mishra,Mason,824,2503
+Nagaraju Chari,Electrician,670,2399
+Mahesh Yadav,Painter,464,2601
+Bharath Kumar,Painter,758,1809
+Raju Kumar,Supervisor,803,1197
+Kiran Shetty,Supervisor,801,1229
+Raju Kumar,Supervisor,571,195
+Manoj Reddy,Site Engineer,920,2015
+Sharath Chari,Painter,762,1787
+Sharath Das,Carpenter,883,1105
+Mahesh Kumar,Painter,492,2986
+Sharath Chowdary,Finishing Worker,803,2473
+Naresh Shetty,Finishing Worker,927,1504
+Venkat Rao,Carpenter,415,1204
+Bharath Joshi,Supervisor,962,1885
+Kiran Tripathi,Finishing Worker,964,2842
+Venkanna Yadav,Welder,733,2411
+Naresh Das,Finishing Worker,517,1205
+Anil Verma,Labour,582,2007
+Srinivas Goud,Supervisor,445,1364
+Shankar Chari,Finishing Worker,916,854
+Bharath Reddy,Plumber,636,2423
+Naresh Chowdary,Painter,680,1896
+Venkat Singh,Finishing Worker,507,481
+Naresh Joshi,Supervisor,984,2748
+Naresh Joshi,Painter,632,134
+Sunil Kumar,Finishing Worker,451,2539
+Rajesh Kumar,Tile Fitter,749,2386
+Venkat Kumar,Electrician,904,75
+Venkanna Singh,Welder,669,1047
+Lakshman Das,Site Engineer,973,606
+Nagaraju Joshi,Supervisor,567,2252
+Sharath Goud,Plumber,999,78
+Sharath Tripathi,Plumber,556,814
+Sharath Rao,Site Engineer,997,142
+Srinu Das,Labour,414,1243
+Naresh Singh,Mason,468,1206
+Sharath Verma,Labour,498,2320
+Shankar Joshi,Finishing Worker,627,1070
+Raju Mishra,Finishing Worker,468,113
+Kiran Chari,Painter,555,131
+Srinu Shetty,Plumber,449,339
+Sunil Mishra,Finishing Worker,779,2965
+Venkanna Verma,Carpenter,518,1162
+Swamy Naik,Site Engineer,652,1032
+Srinu Joshi,Finishing Worker,455,1953
+Sharath Tripathi,Welder,439,2986
+Venkat Das,Tile Fitter,882,2649
+Venkat Patel,Painter,830,2099
+Sunil Chari,Plumber,676,1816
+Naresh Das,Painter,576,156
+Raju Chari,Tile Fitter,883,2395
+Praveen Singh,Finishing Worker,547,1037
+Ramesh Das,Mason,867,459
+Mahesh Kumar,Mason,780,1868
+Srinu Chari,Labour,613,1985
+Nagaraju Tripathi,Supervisor,519,1829
+Nagaraju Chari,Mason,909,1449
+Naresh Chari,Electrician,766,2257
+Naresh Shetty,Welder,702,2724
+Venkat Yadav,Labour,816,883
+Anil Shetty,Finishing Worker,940,2711
+Lakshman Kumar,Tile Fitter,944,510
+Rajesh Kumar,Tile Fitter,861,1599
+Shankar Verma,Mason,697,1957
+Naresh Singh,Supervisor,622,2242
+Srinu Singh,Painter,520,340
+Rajesh Mishra,Electrician,537,2907
+Srinu Mishra,Carpenter,975,2724
+Naresh Singh,Welder,758,2018
+Kiran Naik,Site Engineer,924,1326
+Shankar Tripathi,Supervisor,805,341
+Rajesh Rao,Tile Fitter,975,1920
+Ramesh Patel,Painter,700,458
+Rajesh Chari,Finishing Worker,860,1650
+Raju Shetty,Mason,747,2630
+Venkat Das,Mason,762,2081
+Sharath Reddy,Tile Fitter,737,2211
+Swamy Reddy,Painter,651,1285
+Sunil Rao,Carpenter,637,1593
+Anil Goud,Painter,533,863
+Mahesh Shetty,Carpenter,418,1826
+Raju Verma,Electrician,749,1481
+Naresh Singh,Electrician,865,680
+Nagaraju Patel,Supervisor,986,563
+Shankar Mishra,Carpenter,575,2889
+Raju Naik,Tile Fitter,582,2332
+Kiran Singh,Finishing Worker,676,621
+Mahesh Verma,Finishing Worker,603,2083
+Mahesh Rao,Tile Fitter,878,1974
+Swamy Patel,Electrician,932,582
+Venkat Das,Mason,909,2614
+Lakshman Naik,Welder,897,483
+Lakshman Verma,Labour,437,20
+Raju Das,Site Engineer,816,2663
+Srinu Naik,Mason,769,1916
+Sharath Reddy,Electrician,721,2238
+Venkanna Mishra,Welder,445,2573
+Mahesh Kumar,Carpenter,616,1641
+Bharath Mishra,Welder,458,402
+Shankar Yadav,Finishing Worker,724,22
+Srinivas Kumar,Electrician,868,900
+Srinivas Reddy,Labour,895,920
+Srinu Shetty,Labour,449,1427
+Manoj Naik,Finishing Worker,948,847
+Bharath Chari,Supervisor,473,1006
+Venkat Chowdary,Welder,864,529
+Nagaraju Kumar,Plumber,426,945
+Anil Kumar,Labour,905,993
+Manoj Rao,Site Engineer,734,2509
+Raju Tripathi,Plumber,550,1273
+Swamy Tripathi,Labour,408,1770
+Bharath Chari,Carpenter,859,2850
+Kiran Joshi,Plumber,828,2747
+Praveen Joshi,Welder,891,2901
+Nagaraju Rao,Labour,469,1023
+Nagaraju Goud,Electrician,407,197
+Praveen Patel,Labour,552,587
+Kiran Verma,Painter,917,984
+Anil Patel,Welder,927,2705
+Raju Kumar,Welder,936,2738
+Mahesh Kumar,Painter,474,1881
+Mahesh Naik,Finishing Worker,497,2699
+Nagaraju Joshi,Carpenter,765,555
+Mahesh Singh,Labour,456,2722
+Mahesh Das,Mason,626,727
+Anil Yadav,Finishing Worker,673,881
+Sunil Joshi,Site Engineer,558,2963
+Mahesh Rao,Carpenter,681,2397
+Raju Mishra,Mason,527,2036
+Bharath Mishra,Carpenter,600,902
+Raju Yadav,Welder,514,147
+Bharath Das,Painter,449,2636
+Manoj Verma,Mason,725,815
+Mahesh Chari,Tile Fitter,809,2211
+Shankar Goud,Supervisor,441,1257
+Praveen Chowdary,Finishing Worker,709,1291
+Naresh Kumar,Tile Fitter,571,320
+Ramesh Chowdary,Welder,515,916
+Rajesh Joshi,Finishing Worker,484,2824
+Ramesh Das,Painter,794,2448
+Swamy Chowdary,Tile Fitter,710,2214
+Praveen Tripathi,Welder,422,1587
+Kiran Kumar,Electrician,846,723
+Sunil Chari,Carpenter,743,2927
+Srinu Reddy,Supervisor,777,1647
+Shankar Kumar,Painter,529,2986
+Venkat Shetty,Carpenter,999,1793
+Swamy Kumar,Finishing Worker,597,519
+Nagaraju Das,Electrician,522,2621
+Venkat Kumar,Plumber,615,2815
+Srinivas Reddy,Supervisor,543,1862
+Anil Naik,Painter,788,1742
+Venkat Kumar,Electrician,737,655
+Sunil Singh,Electrician,621,1819
+Kiran Chari,Welder,739,2469
+Shankar Verma,Supervisor,810,2273
+Kiran Verma,Site Engineer,714,2179
+Sunil Shetty,Supervisor,439,2681
+Sharath Mishra,Tile Fitter,914,395
+Srinu Chowdary,Finishing Worker,743,1354
+Sharath Yadav,Finishing Worker,417,1246
+Swamy Mishra,Painter,792,1023
+Praveen Rao,Labour,572,171
+Lakshman Mishra,Finishing Worker,863,2488
+Rajesh Yadav,Finishing Worker,939,2483
+Shankar Shetty,Supervisor,648,2537
+Kiran Naik,Finishing Worker,532,2856
+Ramesh Yadav,Welder,773,580
+Venkat Singh,Labour,421,2792
+Bharath Goud,Labour,584,181
+Manoj Rao,Electrician,485,378
+Manoj Naik,Labour,525,1966
+Venkat Reddy,Plumber,691,2930
+Srinu Das,Welder,726,1839
+Sunil Verma,Labour,885,884
+Lakshman Verma,Site Engineer,939,124
+Swamy Shetty,Painter,546,2379
+Bharath Patel,Painter,638,31
+Raju Reddy,Finishing Worker,783,2051
+Anil Reddy,Labour,747,376
+Naresh Verma,Painter,883,658
+Mahesh Patel,Carpenter,675,2871
+Kiran Goud,Finishing Worker,703,2085
+Manoj Tripathi,Finishing Worker,762,474
+Anil Rao,Plumber,535,553
+Ramesh Naik,Finishing Worker,572,2422
+Kiran Reddy,Finishing Worker,685,852
+Mahesh Mishra,Finishing Worker,633,188
+Sharath Shetty,Welder,836,830
+Anil Shetty,Supervisor,510,658
+Raju Goud,Labour,471,2275
+Swamy Verma,Supervisor,868,2121
+Lakshman Das,Finishing Worker,990,504
+Sunil Chari,Supervisor,411,925
+Raju Naik,Supervisor,608,746
+Kiran Reddy,Finishing Worker,763,1741
+Rajesh Shetty,Mason,802,2840
+Srinivas Rao,Mason,813,712
+Srinu Chowdary,Labour,730,2879
+Rajesh Tripathi,Supervisor,767,2576
+Sharath Shetty,Mason,803,1562
+Lakshman Mishra,Welder,910,2420
+Shankar Joshi,Painter,515,415
+Swamy Verma,Carpenter,710,491
+Naresh Yadav,Welder,513,1875
+Venkat Tripathi,Mason,847,1856
+Shankar Kumar,Plumber,421,842
+Manoj Chowdary,Carpenter,927,2142
+Ramesh Chari,Painter,886,1536
+Mahesh Joshi,Electrician,666,1890
+Anil Shetty,Finishing Worker,530,2636
+Ramesh Patel,Mason,739,564
+Venkanna Patel,Labour,800,1650
+Venkanna Yadav,Site Engineer,650,806
+Sunil Singh,Tile Fitter,424,2808
+Srinivas Kumar,Plumber,890,730
+Rajesh Shetty,Electrician,595,291
+Sunil Yadav,Painter,792,1465
+Rajesh Joshi,Tile Fitter,710,2499
+Praveen Das,Mason,547,214
+Shankar Yadav,Carpenter,766,137
+Rajesh Reddy,Tile Fitter,825,509
+Raju Patel,Electrician,633,1999
+Manoj Patel,Painter,982,960
+Raju Chari,Electrician,455,647
+Sharath Shetty,Mason,603,1156
+Manoj Patel,Carpenter,550,2037
+Sharath Shetty,Tile Fitter,643,860
+Rajesh Kumar,Mason,666,1076
+Bharath Mishra,Mason,620,1713
+Manoj Reddy,Mason,954,1483
+Venkat Tripathi,Electrician,426,688
+Nagaraju Patel,Labour,757,475
+Srinivas Chowdary,Painter,862,749
+Venkat Patel,Plumber,994,1325
+Sharath Chowdary,Mason,739,2220
+Lakshman Yadav,Labour,743,2890
+Srinivas Das,Mason,957,2909
+Srinivas Chowdary,Carpenter,480,2971
+Sharath Kumar,Carpenter,507,803
+Ramesh Chowdary,Painter,894,1475
+Ramesh Joshi,Finishing Worker,711,854
+Praveen Yadav,Welder,606,2436
+Naresh Chari,Welder,978,2883
+Venkat Chowdary,Welder,787,1533
+Bharath Chowdary,Tile Fitter,920,1545
+Srinu Chowdary,Plumber,811,1320
+Naresh Chari,Welder,946,1971
+Srinivas Shetty,Carpenter,553,1733
+Kiran Shetty,Mason,914,2950
+Kiran Yadav,Supervisor,672,2170
+Mahesh Das,Electrician,739,2503
+Srinivas Goud,Site Engineer,693,1998
+Swamy Naik,Welder,885,2186
+Nagaraju Naik,Welder,680,1815
+Bharath Joshi,Labour,980,2945
+Kiran Chari,Site Engineer,870,2038
+Mahesh Shetty,Welder,921,785
+Lakshman Chari,Plumber,856,1112
+Manoj Chari,Plumber,884,1640
+Mahesh Chari,Carpenter,898,2407
+Mahesh Rao,Site Engineer,456,1897
+Venkat Reddy,Tile Fitter,478,1323
+Ramesh Goud,Labour,867,2590
+Rajesh Shetty,Electrician,704,636
+Shankar Shetty,Painter,911,2328
+Sunil Mishra,Electrician,477,2892
+Naresh Yadav,Welder,753,2410
+Anil Joshi,Carpenter,553,523
+Bharath Reddy,Tile Fitter,659,2235
+Sharath Chowdary,Electrician,494,191
+Bharath Patel,Supervisor,570,2732
+Lakshman Joshi,Welder,741,1405
+Venkanna Yadav,Mason,974,251
+Shankar Goud,Labour,978,922
+Srinu Goud,Finishing Worker,418,1184
+Swamy Tripathi,Painter,905,314
+Nagaraju Rao,Painter,812,2846
+Rajesh Shetty,Tile Fitter,646,1961
+Raju Chowdary,Supervisor,599,1516
+Naresh Das,Plumber,482,511
+Mahesh Chari,Electrician,663,2925
+Shankar Mishra,Labour,753,2583
+Kiran Shetty,Tile Fitter,870,280
+Anil Mishra,Welder,475,1756
+Mahesh Naik,Mason,927,2206
+Venkat Shetty,Labour,853,1138
+Venkanna Chowdary,Mason,448,251
+Praveen Singh,Plumber,757,1263
+Nagaraju Naik,Carpenter,789,2685
+Swamy Goud,Mason,511,2676
+Naresh Reddy,Plumber,877,2627
+Shankar Verma,Mason,740,545
+Bharath Rao,Mason,937,1820
+Venkanna Shetty,Mason,636,656
+Anil Reddy,Labour,712,168
+Bharath Yadav,Finishing Worker,921,261
+Srinu Singh,Finishing Worker,661,1836
+Venkat Rao,Plumber,421,559
+Venkat Naik,Welder,552,1136
+Swamy Mishra,Tile Fitter,618,2322
+Sunil Chowdary,Carpenter,514,2424
+Raju Kumar,Finishing Worker,594,763
+Srinu Yadav,Painter,761,127
+Rajesh Mishra,Electrician,696,1596
+Raju Das,Supervisor,481,2522
+Sharath Chowdary,Mason,975,1909
+Sunil Reddy,Electrician,674,1537
+Srinivas Patel,Carpenter,452,2719
+Rajesh Patel,Plumber,827,147
+Mahesh Goud,Mason,858,543
+Sunil Shetty,Supervisor,626,2660
+Srinu Yadav,Carpenter,609,2473
+Nagaraju Yadav,Supervisor,657,1707
+Naresh Tripathi,Carpenter,921,1991
+Bharath Joshi,Plumber,879,478
+Lakshman Singh,Plumber,911,2151
+Mahesh Shetty,Site Engineer,543,1236
+Srinu Singh,Painter,414,1290
+Manoj Kumar,Finishing Worker,648,1644
+Srinivas Singh,Finishing Worker,729,2610
+Nagaraju Chari,Labour,400,1254
+Shankar Verma,Plumber,731,1781
+Anil Patel,Site Engineer,469,2225
+Anil Mishra,Welder,765,306
+Shankar Joshi,Finishing Worker,716,1623
+Lakshman Singh,Painter,578,812
+Naresh Patel,Site Engineer,461,568
+Lakshman Verma,Finishing Worker,903,2803
+Sharath Verma,Finishing Worker,868,825
+Rajesh Chari,Painter,752,1128
+Sunil Chowdary,Labour,608,2810
+Naresh Naik,Plumber,652,1501
+Sunil Tripathi,Finishing Worker,906,580
+Raju Verma,Site Engineer,588,441
+Rajesh Patel,Welder,450,2
+Lakshman Reddy,Tile Fitter,736,1768
+Ramesh Tripathi,Plumber,512,590
+Venkanna Chowdary,Electrician,825,425
+Nagaraju Singh,Site Engineer,928,2938
+Mahesh Joshi,Mason,656,1098
+Mahesh Patel,Site Engineer,734,2084
+Raju Goud,Labour,868,2925
+Venkanna Mishra,Site Engineer,770,2340
+Swamy Mishra,Painter,541,1592
+Rajesh Yadav,Site Engineer,805,1727
+Praveen Chari,Site Engineer,526,2772
+Venkanna Yadav,Welder,778,50
+Kiran Goud,Site Engineer,431,1965
+Ramesh Das,Electrician,569,1233
+Kiran Chari,Labour,644,1419
+Ramesh Patel,Supervisor,708,2483
+Praveen Yadav,Tile Fitter,929,1803
+Sunil Rao,Plumber,868,1646
+Venkanna Naik,Labour,434,125
+Lakshman Yadav,Labour,984,2970
+Anil Shetty,Carpenter,713,2533
+Bharath Naik,Electrician,738,2929
+Venkat Yadav,Plumber,814,2206
+Praveen Joshi,Welder,789,2380
+Raju Verma,Finishing Worker,862,2497
+Raju Goud,Electrician,882,1380
+Mahesh Das,Painter,695,2027
+Anil Das,Carpenter,458,1141
+Rajesh Mishra,Carpenter,567,393
+Nagaraju Singh,Labour,963,2474
+Mahesh Das,Electrician,459,2669
+Manoj Tripathi,Painter,566,1206
+Shankar Kumar,Mason,581,1990
+Raju Rao,Carpenter,519,909
+Venkanna Yadav,Carpenter,664,1777
+Venkanna Chari,Welder,987,1770
+Raju Kumar,Plumber,942,2160
+Srinu Mishra,Site Engineer,618,2737
+Rajesh Das,Labour,652,437
+Sunil Reddy,Welder,459,2617
+Nagaraju Verma,Carpenter,843,1346
+Kiran Yadav,Electrician,866,2241
+Rajesh Chari,Welder,507,2398
+Sharath Yadav,Labour,876,2906
+Praveen Chari,Site Engineer,665,487
+Manoj Yadav,Electrician,500,596
+Swamy Das,Tile Fitter,999,807
+Sharath Chowdary,Mason,474,2974
+Manoj Yadav,Supervisor,947,801
+Venkat Chari,Labour,478,2932
+Sharath Tripathi,Tile Fitter,992,947
+Venkat Patel,Welder,426,2947
+Raju Rao,Electrician,569,36
+Kiran Goud,Site Engineer,543,2809
+Kiran Verma,Painter,789,170
+Raju Kumar,Electrician,521,1068
+Venkanna Joshi,Mason,677,578
+Mahesh Kumar,Supervisor,990,1737
+Rajesh Rao,Tile Fitter,581,2921
+Nagaraju Joshi,Plumber,994,354
+Lakshman Chari,Painter,924,168
+Srinu Goud,Tile Fitter,454,216
+Praveen Yadav,Electrician,628,16
+Lakshman Shetty,Electrician,623,1014
+Naresh Yadav,Electrician,574,2111
+Lakshman Yadav,Supervisor,976,1884
+Mahesh Verma,Plumber,484,900
+Swamy Verma,Welder,458,1742
+Ramesh Yadav,Welder,478,159
+Shankar Das,Site Engineer,651,2715
+Anil Singh,Painter,884,1412
+Venkat Rao,Labour,859,1291
+Venkanna Goud,Labour,747,2201
+Rajesh Shetty,Electrician,850,1879
+Anil Shetty,Mason,990,1654
+Rajesh Chari,Mason,969,414
+Naresh Singh,Finishing Worker,841,2699
+Anil Singh,Welder,436,1927
+Srinu Rao,Painter,986,501
+Venkanna Patel,Plumber,444,801
+Sunil Mishra,Carpenter,892,632
+Venkat Singh,Welder,905,2256
+Nagaraju Joshi,Tile Fitter,806,690
+Naresh Kumar,Supervisor,543,2299
+Ramesh Das,Finishing Worker,976,983
+Manoj Reddy,Site Engineer,681,1176
+Praveen Patel,Mason,927,2268
+Srinivas Shetty,Finishing Worker,975,1532
+Venkanna Patel,Painter,672,2088
+Srinu Goud,Labour,548,1108
+Venkanna Chari,Carpenter,556,214
+Mahesh Reddy,Plumber,699,2486
+Bharath Kumar,Mason,746,1514
+Kiran Shetty,Welder,867,306
+Swamy Mishra,Plumber,606,2965
+Raju Tripathi,Plumber,692,90
+Nagaraju Mishra,Mason,834,1073
+Praveen Singh,Carpenter,903,2344
+Venkanna Mishra,Site Engineer,719,402
+Ramesh Tripathi,Painter,416,1471
+Mahesh Mishra,Electrician,605,1813
+Praveen Chowdary,Site Engineer,694,2708
+Mahesh Naik,Finishing Worker,486,680
+Bharath Shetty,Tile Fitter,682,1081
+Bharath Naik,Painter,640,1220
+Rajesh Kumar,Supervisor,912,433
+Srinivas Reddy,Electrician,652,1228
+Sharath Naik,Electrician,482,255
+Raju Yadav,Mason,435,1705
+Sunil Naik,Electrician,841,1737
+Manoj Patel,Site Engineer,828,484
+Raju Kumar,Finishing Worker,855,1465
+Venkanna Chowdary,Tile Fitter,569,368
+Lakshman Singh,Plumber,615,1411
+Lakshman Mishra,Labour,572,136
+Sharath Kumar,Carpenter,523,2230
+Anil Chowdary,Site Engineer,624,2460
+Lakshman Tripathi,Painter,640,70
+Srinu Verma,Finishing Worker,796,905
+Manoj Singh,Welder,957,1870
+Raju Patel,Painter,471,1274
+Nagaraju Kumar,Carpenter,481,343
+Srinivas Naik,Site Engineer,693,2829
+Srinu Goud,Painter,697,939
+Kiran Chowdary,Tile Fitter,465,2510
+Bharath Chari,Labour,580,1462
+Mahesh Patel,Finishing Worker,886,1060
+Swamy Das,Painter,655,2105
+Rajesh Yadav,Tile Fitter,523,1495
+Sunil Kumar,Tile Fitter,446,1194
+Naresh Das,Labour,607,2068
+Raju Chari,Site Engineer,905,1276
+Manoj Yadav,Mason,403,572
+Swamy Mishra,Carpenter,630,272
+Venkanna Chari,Electrician,788,2971
+Nagaraju Goud,Plumber,491,1398
+Swamy Kumar,Plumber,735,465
+Venkanna Yadav,Welder,511,1941
+Sunil Joshi,Site Engineer,808,930
+Rajesh Patel,Electrician,858,1064
+Kiran Reddy,Tile Fitter,940,1190
+Ramesh Shetty,Plumber,447,454
+Naresh Shetty,Carpenter,498,2604
+Anil Naik,Tile Fitter,675,1239
+Raju Patel,Site Engineer,551,484
+Manoj Goud,Electrician,740,2473
+Kiran Patel,Mason,858,2452
+Venkat Shetty,Finishing Worker,919,1473
+Lakshman Chari,Electrician,832,893
+Manoj Naik,Painter,639,204
+Kiran Kumar,Electrician,434,888
+Praveen Goud,Labour,493,2251
+Sharath Shetty,Finishing Worker,810,2804
+Nagaraju Yadav,Labour,433,677
+Mahesh Chowdary,Painter,511,1428
+Srinu Verma,Labour,455,416
+Naresh Kumar,Labour,773,1400
+Srinivas Chowdary,Welder,645,1633
+Ramesh Goud,Carpenter,967,2260
+Anil Singh,Welder,973,2102
+Ramesh Das,Labour,737,2854
+Praveen Patel,Mason,984,2294
+Nagaraju Rao,Plumber,717,538
+Anil Naik,Tile Fitter,635,143
+Venkanna Verma,Labour,913,2105
+Swamy Reddy,Finishing Worker,699,2161
+Sharath Shetty,Painter,532,936
+Bharath Yadav,Labour,758,360
+Praveen Naik,Plumber,666,1011
+Venkat Chowdary,Supervisor,408,735
+Lakshman Chari,Painter,703,2801
+Anil Chari,Labour,412,106
+Anil Singh,Welder,870,2111
+Kiran Reddy,Labour,493,2137
+Rajesh Reddy,Electrician,418,514
+Srinu Goud,Mason,413,1005
+Nagaraju Verma,Labour,987,2475
+Naresh Goud,Electrician,770,649
+Swamy Naik,Labour,868,608
+Srinu Yadav,Electrician,936,1167
+Shankar Chowdary,Tile Fitter,719,1199
+Praveen Das,Labour,702,1316
+Bharath Joshi,Electrician,593,1557
+Ramesh Verma,Labour,686,1360
+Srinivas Rao,Tile Fitter,691,2238
+Naresh Shetty,Supervisor,734,1432
+Srinivas Das,Tile Fitter,889,899
+Mahesh Joshi,Painter,427,1989
+Mahesh Singh,Painter,804,2590
+Rajesh Mishra,Painter,910,1429
+Bharath Patel,Tile Fitter,642,2323
+Shankar Tripathi,Finishing Worker,459,2029
+Praveen Joshi,Tile Fitter,929,1107
+Praveen Singh,Supervisor,942,1609
+Lakshman Goud,Welder,547,1530
+Kiran Kumar,Tile Fitter,835,1364
+Venkat Goud,Finishing Worker,700,2415
+Bharath Kumar,Carpenter,645,1147
+Bharath Naik,Mason,821,2880
+Srinivas Verma,Welder,456,1659
+Ramesh Reddy,Supervisor,952,1220
+Venkat Mishra,Finishing Worker,778,1096
+Venkanna Rao,Tile Fitter,557,244
+Swamy Naik,Site Engineer,735,270
+Srinu Shetty,Electrician,859,2843
+Raju Tripathi,Painter,501,2048
+Ramesh Joshi,Welder,568,2534
+Shankar Rao,Welder,690,427
+Bharath Shetty,Carpenter,437,669
+Sunil Tripathi,Finishing Worker,934,1609
+Ramesh Kumar,Tile Fitter,836,2014
+Shankar Naik,Plumber,741,411
+Naresh Joshi,Mason,819,1132
+Raju Chari,Painter,631,86
+Sunil Mishra,Tile Fitter,676,2662
+Manoj Verma,Supervisor,843,372
+Mahesh Chari,Painter,826,1005
+Lakshman Kumar,Supervisor,447,2153
+Mahesh Singh,Welder,828,334
+Sharath Goud,Mason,997,2282
+Srinivas Verma,Plumber,748,2958
+Manoj Mishra,Mason,426,1177
+Anil Singh,Finishing Worker,613,1173
+Bharath Patel,Electrician,905,1994
+Manoj Verma,Site Engineer,598,834
+Anil Verma,Finishing Worker,750,390
+Sunil Verma,Tile Fitter,608,2753
+Sharath Verma,Labour,707,852
+Venkat Singh,Finishing Worker,607,1421
+Rajesh Naik,Plumber,895,1320
+Swamy Tripathi,Supervisor,837,2619
+Shankar Kumar,Site Engineer,523,2254
+Sunil Patel,Carpenter,768,2860
+Rajesh Singh,Plumber,526,2525
+Nagaraju Kumar,Labour,937,1009
+Mahesh Goud,Labour,473,2672
+Venkat Rao,Labour,733,1733
+Lakshman Chowdary,Finishing Worker,643,1709
+Sunil Verma,Supervisor,971,1167
+Lakshman Verma,Tile Fitter,716,171
+Raju Reddy,Painter,949,909
+Anil Chowdary,Electrician,433,1061
+Swamy Das,Painter,860,1056
+Sunil Yadav,Finishing Worker,469,2315
+Venkat Rao,Site Engineer,962,703
+Manoj Goud,Labour,855,2940
+Rajesh Verma,Painter,901,2681
+Raju Singh,Site Engineer,828,1603
+Kiran Goud,Plumber,813,2657
+Srinu Yadav,Finishing Worker,998,2874
+Srinu Mishra,Mason,850,9
+Kiran Shetty,Tile Fitter,886,2393
+Swamy Singh,Welder,493,1897
+Venkanna Shetty,Finishing Worker,473,698
+Ramesh Tripathi,Labour,939,906
+Mahesh Tripathi,Painter,606,934
+Anil Naik,Site Engineer,410,1191
+Shankar Chari,Site Engineer,953,2720
+Venkat Mishra,Carpenter,886,2410
+Mahesh Mishra,Labour,526,1494
+Srinu Chari,Carpenter,533,424
+Lakshman Joshi,Finishing Worker,712,938
+Swamy Reddy,Mason,765,1461
+Bharath Mishra,Plumber,442,2920
+Srinivas Yadav,Plumber,531,1854
+Venkanna Das,Mason,527,1479
+Raju Kumar,Carpenter,841,1910
+Manoj Shetty,Supervisor,823,333
+Nagaraju Tripathi,Finishing Worker,926,410
+Naresh Das,Mason,933,465
+Sharath Joshi,Labour,942,84
+Anil Chari,Painter,403,324
+Bharath Naik,Welder,789,1804
+Kiran Das,Mason,658,2815
+Rajesh Reddy,Electrician,557,2490
+Srinu Kumar,Site Engineer,693,1362
+Kiran Goud,Finishing Worker,497,1958
+Shankar Reddy,Mason,487,2606
+Venkat Das,Site Engineer,612,971
+Shankar Rao,Finishing Worker,455,1828
+Venkat Chari,Carpenter,484,1488
+Nagaraju Joshi,Plumber,933,1001
+Anil Chowdary,Site Engineer,448,2711
+Srinivas Reddy,Electrician,533,959
+Manoj Tripathi,Electrician,981,865
+Ramesh Patel,Welder,425,1149
+Rajesh Kumar,Electrician,719,771
+Venkanna Mishra,Mason,995,2549
+Manoj Patel,Finishing Worker,877,2911
+Venkanna Verma,Supervisor,675,2683
+Srinu Reddy,Carpenter,421,2405
+Shankar Yadav,Finishing Worker,566,123
+Venkat Patel,Labour,654,1868
+Bharath Shetty,Mason,958,2881
+Sharath Singh,Carpenter,868,745
+Praveen Reddy,Mason,704,208
+Anil Verma,Carpenter,839,1600
+Praveen Shetty,Supervisor,453,363
+Naresh Naik,Carpenter,896,1788
+Rajesh Verma,Tile Fitter,588,2080
+Bharath Das,Tile Fitter,943,948
+Rajesh Tripathi,Carpenter,585,1510
+Sunil Singh,Welder,875,295
+Mahesh Tripathi,Plumber,776,1600
+Anil Rao,Supervisor,519,2631
+Srinivas Singh,Labour,805,350
+Kiran Shetty,Painter,751,2124
+Rajesh Shetty,Electrician,919,813
+Ramesh Patel,Labour,949,2322
+Mahesh Chowdary,Carpenter,575,944
+Lakshman Das,Supervisor,622,302
+Shankar Rao,Supervisor,935,916
+Venkanna Goud,Welder,793,2414
+Swamy Tripathi,Mason,823,64
+Manoj Chowdary,Painter,477,2873
+Srinivas Verma,Electrician,965,1372
+Swamy Reddy,Labour,448,998
+Naresh Patel,Finishing Worker,532,506
+Anil Das,Electrician,992,1219
+Anil Verma,Finishing Worker,548,2622
+Anil Kumar,Mason,919,2733
+Lakshman Rao,Mason,411,1782
+Srinu Shetty,Mason,426,1068
+Manoj Goud,Mason,932,766
+Kiran Kumar,Tile Fitter,965,2312
+Bharath Shetty,Electrician,491,237
+Shankar Yadav,Site Engineer,996,2203
+Lakshman Patel,Tile Fitter,410,715
+Sharath Tripathi,Site Engineer,744,2180
+Naresh Reddy,Mason,433,1092
+Nagaraju Chari,Painter,885,1588
+Swamy Patel,Welder,482,1854
+Venkat Singh,Painter,957,43
+Srinu Reddy,Finishing Worker,681,1191
+Mahesh Reddy,Welder,813,834
+Bharath Kumar,Labour,642,806
+Swamy Kumar,Site Engineer,512,1077
+Kiran Tripathi,Carpenter,856,257
+Rajesh Shetty,Labour,920,1565
+Swamy Chowdary,Electrician,488,1848
+Lakshman Chowdary,Supervisor,686,2709
+Rajesh Joshi,Welder,841,2833
+Srinu Kumar,Carpenter,996,1848
+Anil Das,Finishing Worker,994,2739
+Naresh Patel,Mason,671,1372
+Naresh Shetty,Mason,850,2662
+Kiran Mishra,Welder,502,848
+Venkat Mishra,Site Engineer,537,1509
+Srinu Das,Mason,540,521
+Rajesh Tripathi,Welder,585,720
+Sharath Shetty,Mason,903,547
+Sharath Yadav,Finishing Worker,532,2121
+Srinivas Chowdary,Carpenter,697,682
+Praveen Rao,Tile Fitter,671,431
+Venkat Das,Electrician,539,120
+Sharath Yadav,Labour,951,583
+Srinivas Das,Electrician,664,310
+Nagaraju Reddy,Site Engineer,901,64
+Manoj Reddy,Plumber,457,1805
+Sharath Singh,Electrician,888,130
+Kiran Chari,Electrician,646,365
+Nagaraju Chari,Electrician,955,1427
+Praveen Chari,Carpenter,644,2918
+Srinivas Goud,Mason,956,1659
+Bharath Singh,Carpenter,804,2578
+Anil Tripathi,Site Engineer,978,2445
+Raju Naik,Finishing Worker,581,467
+Sunil Chari,Mason,434,21
+Venkanna Tripathi,Mason,569,2538
+Praveen Mishra,Mason,516,1613
+Nagaraju Patel,Tile Fitter,544,572
+Sunil Tripathi,Mason,484,180
+Srinivas Verma,Welder,613,2986
+Lakshman Chari,Carpenter,776,1228
+Naresh Reddy,Painter,937,1779
+Swamy Yadav,Supervisor,968,2744
+Venkanna Kumar,Mason,586,1355
+Rajesh Yadav,Painter,610,2267
+Naresh Singh,Mason,843,653
+Anil Goud,Carpenter,899,401
+Rajesh Patel,Labour,405,2949
+Sunil Shetty,Supervisor,578,255
+Sunil Yadav,Labour,920,320
+Sunil Verma,Carpenter,527,640
+Srinu Singh,Mason,486,668
+Ramesh Naik,Plumber,879,1362
+Sunil Chowdary,Supervisor,438,507
+Srinivas Yadav,Welder,544,282
+Nagaraju Patel,Carpenter,499,1683
+Srinivas Chowdary,Plumber,792,1202
+Bharath Kumar,Mason,931,1222
+Raju Tripathi,Tile Fitter,688,849
+Sunil Shetty,Finishing Worker,705,2688
+Mahesh Verma,Painter,959,35
+Mahesh Tripathi,Carpenter,580,1467
+Sunil Joshi,Tile Fitter,410,1423
+Sunil Chowdary,Mason,656,1630
+Srinivas Naik,Welder,463,2767
+Lakshman Rao,Carpenter,680,2091
+Praveen Shetty,Supervisor,774,2686
+Manoj Das,Welder,861,1988
+Srinu Naik,Plumber,740,1683
+Nagaraju Verma,Labour,938,1208
+Rajesh Patel,Plumber,705,1158
+Sunil Yadav,Labour,927,160
+Manoj Singh,Mason,881,323
+Sunil Yadav,Supervisor,449,2629
+Bharath Chari,Electrician,982,705
+Kiran Patel,Plumber,439,2971
+Srinivas Tripathi,Welder,499,2565
+Srinivas Naik,Painter,434,1906
+Mahesh Verma,Welder,718,266
+Sunil Reddy,Painter,639,2375
+Rajesh Naik,Site Engineer,706,2486
+Srinu Tripathi,Supervisor,489,114
+Praveen Joshi,Welder,695,2555
+Srinu Mishra,Electrician,534,1961
+Anil Chari,Painter,515,494
+Venkanna Chowdary,Tile Fitter,692,936
+Sharath Mishra,Finishing Worker,886,1007
+Venkanna Verma,Mason,433,1164
+Ramesh Joshi,Tile Fitter,597,1601
+Rajesh Singh,Carpenter,631,2646
+Anil Naik,Supervisor,597,2669
+Praveen Singh,Welder,421,2359
+Mahesh Verma,Labour,763,639
+Praveen Goud,Mason,444,659
+Sharath Mishra,Welder,571,1257
+Rajesh Chari,Supervisor,802,238
+Swamy Kumar,Mason,703,2046
+Naresh Chowdary,Plumber,488,295
+Mahesh Tripathi,Labour,608,1276
+Mahesh Chari,Welder,470,1078
+Kiran Chari,Welder,643,163
+Srinu Chari,Plumber,800,978
+Srinu Chari,Tile Fitter,494,2761
+Venkat Chowdary,Electrician,565,2694
+Bharath Chowdary,Electrician,653,2370
+Sharath Tripathi,Labour,512,2138
+Ramesh Joshi,Painter,726,2664
+Venkanna Shetty,Site Engineer,666,253
+Praveen Tripathi,Welder,427,1716
+Naresh Das,Site Engineer,829,2679
+Venkat Mishra,Finishing Worker,725,2697
+Rajesh Mishra,Mason,793,498
+Srinu Goud,Supervisor,609,1205
+Manoj Joshi,Plumber,807,1268
+Mahesh Mishra,Supervisor,641,1747
+Sunil Reddy,Welder,732,85
+Srinu Tripathi,Mason,413,2561
+Anil Goud,Electrician,947,1099
+Naresh Tripathi,Welder,729,2192
+Bharath Singh,Finishing Worker,469,395
+Srinivas Joshi,Painter,995,571
+Venkanna Joshi,Supervisor,679,1368
+Praveen Goud,Finishing Worker,664,1412
+Venkat Yadav,Plumber,805,212
+Bharath Kumar,Site Engineer,793,2658
+Swamy Rao,Tile Fitter,976,2170
+Venkat Joshi,Labour,902,1418
+Manoj Singh,Finishing Worker,690,2774
+Kiran Chowdary,Mason,596,2243
+Bharath Chari,Site Engineer,524,1001
+Ramesh Goud,Welder,644,773
+Venkat Yadav,Painter,970,826
+Naresh Chowdary,Mason,991,2937
+Venkat Naik,Site Engineer,771,1156
+Sunil Chari,Mason,465,845
+Kiran Naik,Electrician,704,110
+Kiran Mishra,Tile Fitter,944,68
+Raju Reddy,Electrician,588,2497
+Srinu Yadav,Electrician,878,701
+Praveen Singh,Mason,564,411
+Kiran Goud,Site Engineer,688,1175
+Shankar Chowdary,Labour,570,1335
+Raju Chowdary,Mason,779,1305
+Venkanna Kumar,Carpenter,744,1484
+Ramesh Mishra,Tile Fitter,565,2231
+Praveen Kumar,Site Engineer,850,2491
+Kiran Patel,Mason,840,1221
+Bharath Yadav,Tile Fitter,643,2516
+Venkat Mishra,Labour,408,363
+Lakshman Chari,Tile Fitter,479,1140
+Srinivas Chari,Site Engineer,947,1786
+Anil Naik,Mason,654,1709
+Naresh Tripathi,Tile Fitter,934,1637
+Praveen Tripathi,Carpenter,551,1598
+Naresh Joshi,Plumber,652,1588
+Lakshman Singh,Painter,651,1726
+Srinivas Reddy,Mason,725,868
+Lakshman Kumar,Mason,669,262
+Nagaraju Chowdary,Supervisor,857,739
+Nagaraju Joshi,Labour,439,2754
+Raju Shetty,Painter,482,2339
+Swamy Yadav,Carpenter,753,2386
+Mahesh Singh,Carpenter,968,2067
+Raju Shetty,Carpenter,631,1485
+Sharath Verma,Supervisor,958,2470
+Swamy Das,Painter,469,2270
+Venkat Verma,Tile Fitter,546,2223
+Venkat Chari,Welder,626,77
+Swamy Patel,Welder,696,2653
+Nagaraju Tripathi,Finishing Worker,631,623
+Naresh Yadav,Painter,952,2880
+Venkanna Chari,Labour,464,699
+Nagaraju Verma,Labour,417,1122
+Srinu Chowdary,Plumber,707,1615
+Venkanna Rao,Carpenter,605,2822
+Swamy Mishra,Tile Fitter,678,1686
+Mahesh Das,Site Engineer,404,2374
+Anil Singh,Plumber,472,202
+Mahesh Patel,Painter,873,1682
+Swamy Goud,Mason,970,1459
+Srinu Kumar,Painter,789,942
+Srinivas Shetty,Plumber,616,439
+Anil Singh,Tile Fitter,597,2781
+Swamy Joshi,Painter,735,2332
+Mahesh Patel,Electrician,979,2912
+Praveen Kumar,Tile Fitter,457,2780
+Praveen Shetty,Tile Fitter,694,1655
+Naresh Verma,Painter,440,2774
+Raju Joshi,Electrician,710,1417
+Mahesh Das,Plumber,920,2505
+Rajesh Shetty,Mason,975,2737
+Rajesh Shetty,Supervisor,683,848
+Ramesh Mishra,Mason,648,2140
+Swamy Singh,Mason,719,2458
+Sharath Kumar,Electrician,421,36
+Rajesh Chari,Tile Fitter,803,1236
+Praveen Yadav,Site Engineer,982,2092
+Praveen Rao,Electrician,651,2824
+Kiran Chowdary,Plumber,752,815
+Swamy Kumar,Mason,999,257
+Venkat Naik,Electrician,535,572
+Anil Shetty,Electrician,556,1818
+Naresh Patel,Site Engineer,951,1586
+Sharath Yadav,Carpenter,406,2535
+Mahesh Patel,Carpenter,829,405
+Ramesh Shetty,Welder,944,2648
+Praveen Shetty,Carpenter,934,223
+Swamy Das,Electrician,604,2502
+Praveen Tripathi,Plumber,543,116
+Manoj Das,Welder,953,2564
+Venkat Yadav,Labour,853,2564
+Kiran Verma,Carpenter,605,365
+Venkanna Mishra,Welder,405,2021
+Venkat Naik,Electrician,555,197
+Venkat Yadav,Finishing Worker,843,1083
+Mahesh Yadav,Finishing Worker,506,1207
+Venkat Joshi,Site Engineer,745,849
+Rajesh Joshi,Painter,419,1064
+Bharath Goud,Supervisor,998,2300
+Sharath Tripathi,Supervisor,439,2859
+Sunil Chowdary,Labour,916,790
+Lakshman Joshi,Site Engineer,458,1652
+Rajesh Naik,Mason,741,2984
+Sunil Rao,Electrician,679,2925
+Shankar Goud,Plumber,671,2435
+Praveen Rao,Painter,544,576
+Kiran Chari,Plumber,918,178
+Kiran Naik,Welder,822,843
+Bharath Singh,Painter,655,2145
+Mahesh Mishra,Mason,418,641
+Anil Rao,Finishing Worker,770,119
+Kiran Tripathi,Finishing Worker,673,1083
+Nagaraju Tripathi,Plumber,651,300
+Sharath Singh,Welder,970,75
+Praveen Kumar,Site Engineer,854,2954
+Rajesh Kumar,Labour,763,1820
+Swamy Tripathi,Mason,532,2989
+Rajesh Chowdary,Finishing Worker,535,1339
+Srinivas Patel,Painter,825,1489
+Naresh Chowdary,Supervisor,574,526
+Lakshman Joshi,Tile Fitter,471,1269
+Venkanna Reddy,Electrician,745,614
+Lakshman Chari,Supervisor,942,1978
+Shankar Mishra,Finishing Worker,590,995
+Anil Singh,Welder,790,2011
+Raju Shetty,Welder,657,1557
+Raju Verma,Electrician,962,504
+Srinivas Chowdary,Painter,980,783
+Shankar Kumar,Plumber,656,999
+Praveen Singh,Carpenter,919,1465
+Venkanna Mishra,Tile Fitter,746,1988
+Sharath Reddy,Welder,720,97
+Raju Chari,Electrician,501,700
+Ramesh Singh,Welder,1000,1347
+Swamy Verma,Tile Fitter,629,50
+Shankar Verma,Mason,599,2217
+Manoj Goud,Painter,541,2775
+Raju Singh,Mason,900,2963
+Srinivas Das,Tile Fitter,992,687
+Swamy Singh,Plumber,414,25
+Rajesh Tripathi,Mason,802,1904
+Srinivas Yadav,Finishing Worker,926,601
+Ramesh Rao,Tile Fitter,486,1740
+Rajesh Reddy,Tile Fitter,838,41
+Ramesh Shetty,Carpenter,578,988
+Srinivas Yadav,Electrician,494,859
+Rajesh Yadav,Carpenter,513,2648
+Bharath Chari,Supervisor,615,1697
+Mahesh Tripathi,Site Engineer,650,1409
+Mahesh Das,Carpenter,586,385
+Mahesh Naik,Carpenter,748,1181
+Naresh Shetty,Plumber,639,1778
+Nagaraju Mishra,Mason,977,1839
+Venkanna Das,Supervisor,916,233
+Sharath Rao,Supervisor,459,867
+Mahesh Patel,Mason,531,1493
+Kiran Chari,Electrician,884,1133
+Manoj Tripathi,Site Engineer,618,2377
+Rajesh Patel,Supervisor,954,1126
+Venkat Rao,Site Engineer,403,1016
+Bharath Das,Carpenter,627,860
+Nagaraju Naik,Welder,887,1720
+Rajesh Shetty,Painter,674,2719
+Mahesh Chari,Labour,881,2846
+Anil Patel,Site Engineer,700,542
+Naresh Das,Site Engineer,801,2667
+Sunil Patel,Carpenter,646,363
+Sharath Mishra,Site Engineer,813,2089
+Nagaraju Chari,Welder,900,1023
+Venkat Joshi,Site Engineer,496,1261
+Kiran Chari,Tile Fitter,991,1175
+Rajesh Chari,Site Engineer,782,633
+Nagaraju Shetty,Painter,881,1756
+Bharath Shetty,Tile Fitter,957,2372
+Sunil Rao,Plumber,660,121
+Rajesh Mishra,Carpenter,996,1334
+Praveen Patel,Carpenter,863,463
+Venkat Goud,Labour,832,102
+Sharath Patel,Welder,681,1794
+Shankar Chari,Supervisor,924,2879
+Bharath Chari,Tile Fitter,590,247
+Srinu Yadav,Carpenter,741,718
+Manoj Shetty,Plumber,625,1717
+Kiran Rao,Tile Fitter,696,254
+Raju Verma,Labour,639,17
+Mahesh Kumar,Supervisor,986,2071
+Srinu Verma,Electrician,604,1435
+Sharath Patel,Carpenter,668,1457
+Ramesh Kumar,Labour,904,2966
+Swamy Singh,Finishing Worker,1000,689
+Kiran Yadav,Supervisor,442,2480
+Sunil Das,Tile Fitter,987,1522
+Shankar Das,Plumber,787,2080
+Shankar Reddy,Plumber,747,672
+Venkat Naik,Site Engineer,850,720
+Shankar Singh,Plumber,826,1030
+Raju Verma,Site Engineer,692,2469
+Bharath Singh,Carpenter,485,2927
+Srinu Joshi,Site Engineer,994,617
+Sunil Goud,Carpenter,590,1463
+Raju Patel,Painter,438,2669
+Srinivas Shetty,Mason,629,2776
+Sunil Yadav,Site Engineer,652,357
+Swamy Naik,Labour,933,2471
+Anil Kumar,Tile Fitter,612,2871
+Bharath Singh,Finishing Worker,598,60
+Naresh Shetty,Electrician,435,1396
+Raju Rao,Electrician,522,1507
+Venkanna Kumar,Electrician,997,2882
+Sunil Yadav,Labour,558,840
+Shankar Chari,Labour,521,2458
+Lakshman Rao,Tile Fitter,769,2292
+Venkat Shetty,Carpenter,764,1175
+Kiran Yadav,Electrician,762,810
+Srinivas Patel,Carpenter,731,834
+Shankar Rao,Tile Fitter,527,144
+Anil Rao,Electrician,780,1256
+Bharath Chari,Plumber,600,1612
+Bharath Tripathi,Mason,610,2864
+Venkanna Verma,Carpenter,972,2754
+Swamy Mishra,Painter,401,848
+Manoj Tripathi,Site Engineer,989,647
+Swamy Goud,Carpenter,723,1640
+Swamy Singh,Finishing Worker,866,241
+Kiran Rao,Electrician,709,952
+Srinivas Chowdary,Tile Fitter,463,682
+Raju Joshi,Supervisor,418,1879
+Raju Verma,Supervisor,876,974
+Lakshman Rao,Carpenter,902,122
+Naresh Yadav,Labour,588,651
+Swamy Mishra,Plumber,696,392
+Ramesh Rao,Painter,530,1464
+Manoj Tripathi,Electrician,784,2975
+Raju Verma,Site Engineer,582,1959
+Venkat Naik,Plumber,519,580
+Shankar Das,Mason,705,2098
+Bharath Reddy,Mason,702,846
+Kiran Chari,Plumber,508,2624
+Venkat Chari,Tile Fitter,742,2870
+Sunil Goud,Finishing Worker,502,846
+Rajesh Chowdary,Electrician,520,2640
+Sharath Tripathi,Tile Fitter,865,2364
+Rajesh Rao,Tile Fitter,550,2841
+Shankar Chowdary,Finishing Worker,601,367
+Ramesh Chowdary,Welder,467,222
+Bharath Das,Plumber,747,2189
+Sunil Chowdary,Carpenter,572,1189
+Nagaraju Das,Finishing Worker,546,754
+Kiran Yadav,Carpenter,801,936
+Raju Patel,Finishing Worker,742,1842
+Srinu Goud,Tile Fitter,713,2098
+Mahesh Kumar,Plumber,857,1028
+Srinivas Chari,Plumber,991,979
+Rajesh Mishra,Finishing Worker,775,696
+Praveen Singh,Finishing Worker,950,636
+Nagaraju Chari,Labour,516,2219
+Manoj Naik,Carpenter,916,2633
+Sharath Joshi,Tile Fitter,670,264
+Praveen Naik,Tile Fitter,628,827
+Naresh Goud,Labour,403,1691
+Srinivas Reddy,Electrician,489,2081
+Sunil Chowdary,Labour,508,845

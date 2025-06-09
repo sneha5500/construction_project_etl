@@ -1,40 +1,26 @@
 import pandas as pd
 import sqlite3
+import random
 
-# Extract
-df = pd.read_csv("external_sites.csv")
+# Step 1: Read your original data
+df = pd.read_csv("sites.csv")
 
-# Transform
-df.rename(columns={
-    'plot_id': 'site_id',
-    'location_name': 'location',
-    'area_name': 'area_name',
-    'size_in_sqft': 'area_sqft',
-    'rate': 'cost_per_sqft'
-}, inplace=True)
+# Step 2: Add random realistic cost per sqft (₹1800 to ₹3000)
+df["cost_per_sqft"] = [random.randint(1800, 3000) for _ in range(len(df))]
 
-df['status'] = 'available'
-df['current_owner_id'] = None
+# Step 3: Add random status
+df["status"] = [random.choice(["Under Construction", "Completed", "Planning"]) for _ in range(len(df))]
 
-# Load
+# Step 4: Add site_id (starting from 1)
+df.insert(0, "site_id", range(1, len(df)+1))
+
+# Step 5: Load into SQLite DB
 conn = sqlite3.connect("company.db")
-
-# Create table if not exists (now includes area_name)
-conn.execute('''
-CREATE TABLE IF NOT EXISTS Sites (
-    site_id INTEGER PRIMARY KEY,
-    location TEXT,
-    area_name TEXT,
-    area_sqft INTEGER,
-    cost_per_sqft INTEGER,
-    status TEXT,
-    current_owner_id INTEGER
-)
-''')
-
-df.to_sql("Sites", conn, if_exists="append", index=False)
-
-conn.commit()
+df.to_sql("Sites", conn, if_exists="replace", index=False)
 conn.close()
 
-print("✅ ETL completed. Data inserted into company.db")
+print("✅ Sites table updated and loaded successfully.")
+
+
+
+

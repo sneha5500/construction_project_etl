@@ -1,21 +1,28 @@
-# dashboard.py
 import streamlit as st
-from login import show_login
 import sqlite3
 import pandas as pd
 
 st.set_page_config(page_title="Construction Project Dashboard", layout="wide")
 
-# Show login screen if not authenticated
+# Check authentication
 if "authenticated" not in st.session_state:
     st.session_state["authenticated"] = False
 
+# Logout handler
+def logout():
+    st.session_state["authenticated"] = False
+    st.experimental_rerun()
+
+# If not logged in, redirect to login
 if not st.session_state["authenticated"]:
-    show_login()
+    st.warning("🔒 Please login to access the dashboard.")
     st.stop()
 
-# Dashboard content after login
+# Dashboard content
 st.title("🏗️ Construction ETL Project Dashboard")
+
+# 🔘 Logout button (top-right corner)
+st.sidebar.button("🚪 Logout", on_click=logout)
 
 conn = sqlite3.connect("company.db")
 
@@ -32,7 +39,6 @@ with tab1:
         GROUP BY site_id, material_name
     ''', conn)
     st.dataframe(materials)
-
 
 with tab2:
     st.header("Total Salary Paid Per Site")
@@ -55,3 +61,4 @@ with tab3:
     st.dataframe(ownership)
 
 conn.close()
+
