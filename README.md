@@ -8,11 +8,12 @@ To develop a full-fledged project monitoring tool for construction businesses th
 
 Technologies Used
 
-Technology	Description
-Python (Pandas)	Data processing, cleaning, and transformation
-SQLite	Lightweight, file-based database for structured storage
-Streamlit	Web-based interface for dashboard and data display
-CSV	Used as the initial data input for ETL
+1.Python (Pandas):Data processing, cleaning, and transformation
+2.SQLite:	Lightweight, file-based database for structured storage
+3.Streamlit:	Web-based interface for dashboard and data display
+4.CSV:	Used as the initial data input for ETL
+
+
 Core Features
 
 1. Project Management
@@ -35,6 +36,8 @@ Enables filtering and analysis by client
 Displays real-time summaries: total spend, total sales, and profit
 Enables filtering by area, status, site, client
 Presents tabular and aggregated views using Streamlit widgets
+
+
 Project Directory Structure
 
 ConstructionProject/
@@ -56,35 +59,41 @@ ConstructionProject/
 │   └── dashboard.py             # Streamlit application
 │
 └── README.md
+
 How It Works
 
-Extract: Data is initially sourced from structured CSV files for each category (projects, clients, materials, workers, etc.)
-Transform: Python (via Pandas) processes this data, cleaning inconsistencies, filling nulls, and converting types as needed.
-Load: The data is inserted into a normalized SQLite database using a script (etl_loader.py).
-Display: The dashboard reads from the SQLite DB and uses Streamlit to show:
-Detailed site info
-Summary metrics
-Filtered search results
+1.Extract: Data is initially sourced from structured CSV files for each category (projects, clients, materials, workers, etc.)
+2.Transform: Python (via Pandas) processes this data, cleaning inconsistencies, filling nulls, and converting types as needed.
+3.Load: The data is inserted into a normalized SQLite database using a script (etl_loader.py).
+4.Display: The dashboard reads from the SQLite DB and uses Streamlit to show:
+*Detailed site info
+*Summary metrics
+*Filtered search results
+
+
 Business Applications
 
-Track real-time progress across 3000+ construction projects
-Monitor profit margins per site and area
-Prevent overspending on materials
-Understand client history and ownership flow
-Identify areas with the most construction activity
+*Track real-time progress across 3000+ construction projects
+*Monitor profit margins per site and area
+*Prevent overspending on materials
+*Understand client history and ownership flow
+*Identify areas with the most construction activity
+
 Data Integrity & Security
 
-All ETL operations are handled programmatically (not through manual entry)
-Data is validated before loading to prevent schema mismatch
-Streamlit app is read-only for display; DB write access is restricted to scripts
+*All ETL operations are handled programmatically (not through manual entry)
+*Data is validated before loading to prevent schema mismatch
+*Streamlit app is read-only for display; DB write access is restricted to scripts
+
 Scalability
 
-SQLite is sufficient for thousands of records; supports future migration to PostgreSQL
-Modular design makes it easy to upgrade dashboard components
-Can be containerized or moved to cloud-hosted environments for enterprise use
+*SQLite is sufficient for thousands of records; supports future migration to PostgreSQL
+*Modular design makes it easy to upgrade dashboard components
+*Can be containerized or moved to cloud-hosted environments for enterprise use
+
 Future Enhancements
 
-Add role-based access for clients, workers, and admins
-Include image support per site (site photos)
-Enable monthly PDF report export for each project
-Live integration with vendor material APIs
+*Add role-based access for clients, workers, and admins
+*Include image support per site (site photos)
+*Enable monthly PDF report export for each project
+*Live integration with vendor material APIs
